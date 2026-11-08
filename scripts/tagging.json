@@ -1,0 +1,497 @@
+{
+ "allDegreePhrases": [
+  "any discipline",
+  "all disciplines",
+  "all streams",
+  "any stream",
+  "any recognised university",
+  "any recognized university",
+  "any recognised institution",
+  "any degree",
+  "any background",
+  "students from any",
+  "open to all students",
+  "all branches",
+  "any branch"
+ ],
+ "allFieldPhrases": [
+  "any discipline",
+  "all disciplines",
+  "all streams",
+  "any stream",
+  "any field",
+  "all fields",
+  "interdisciplinary"
+ ],
+ "degrees": [
+  {
+   "degree": "M.Sc. Agriculture",
+   "keywords": [
+    "m.sc. agriculture",
+    "msc agriculture",
+    "m.sc. (agriculture)",
+    "m.sc (ag)"
+   ]
+  },
+  {
+   "degree": "B.Sc. Agriculture",
+   "keywords": [
+    "b.sc. agriculture",
+    "bsc agriculture",
+    "b.sc. (agriculture)",
+    "b.sc (ag)",
+    "b.sc. agri"
+   ]
+  },
+  {
+   "degree": "MVSc (Veterinary)",
+   "keywords": [
+    "mvsc",
+    "m.v.sc",
+    "master of veterinary"
+   ]
+  },
+  {
+   "degree": "BVSc (Veterinary)",
+   "keywords": [
+    "bvsc",
+    "b.v.sc",
+    "bachelor of veterinary"
+   ]
+  },
+  {
+   "degree": "MBBS / BDS",
+   "keywords": [
+    "mbbs",
+    "bds",
+    "bachelor of medicine",
+    "dental students",
+    "medical students"
+   ]
+  },
+  {
+   "degree": "MD / MS (Medical)",
+   "keywords": [
+    "md / ms",
+    "md/ms",
+    "doctor of medicine",
+    "master of surgery",
+    "postgraduate medical"
+   ]
+  },
+  {
+   "degree": "M.Pharm",
+   "keywords": [
+    "m.pharm",
+    "mpharm",
+    "master of pharmacy"
+   ]
+  },
+  {
+   "degree": "B.Pharm",
+   "keywords": [
+    "b.pharm",
+    "bpharm",
+    "bachelor of pharmacy"
+   ]
+  },
+  {
+   "degree": "M.Tech",
+   "keywords": [
+    "m.tech",
+    "mtech",
+    "m.e. / m.tech",
+    "master of technology"
+   ]
+  },
+  {
+   "degree": "B.Tech / B.E.",
+   "keywords": [
+    "b.tech",
+    "btech",
+    "b.e.",
+    "bachelor of technology",
+    "bachelor of engineering",
+    "engineering students",
+    "engineering undergraduates"
+   ]
+  },
+  {
+   "degree": "MCA",
+   "keywords": [
+    "mca",
+    "master of computer applications"
+   ]
+  },
+  {
+   "degree": "BCA",
+   "keywords": [
+    "bca",
+    "bachelor of computer applications"
+   ]
+  },
+  {
+   "degree": "M.Sc.",
+   "keywords": [
+    "m.sc",
+    "msc",
+    "master of science",
+    "postgraduate science"
+   ]
+  },
+  {
+   "degree": "B.Sc.",
+   "keywords": [
+    "b.sc",
+    "bsc",
+    "bachelor of science"
+   ]
+  },
+  {
+   "degree": "M.A. / M.Com / MBA",
+   "keywords": [
+    "mba",
+    "m.a.",
+    "m.com",
+    "master of arts",
+    "master of commerce",
+    "master of business administration",
+    "management students"
+   ]
+  },
+  {
+   "degree": "B.A. / B.Com / BBA",
+   "keywords": [
+    "bba",
+    "b.a.",
+    "b.com",
+    "bachelor of arts",
+    "bachelor of commerce",
+    "bachelor of business administration"
+   ]
+  },
+  {
+   "degree": "Diploma",
+   "keywords": [
+    "diploma",
+    "polytechnic",
+    "iti students",
+    "diploma holders"
+   ]
+  },
+  {
+   "degree": "Ph.D / Research",
+   "keywords": [
+    "ph.d",
+    "phd",
+    "doctoral",
+    "research scholars",
+    "research scholar",
+    "junior research fellow",
+    "senior research fellow",
+    "jrf",
+    "srf",
+    "research fellows"
+   ]
+  },
+  {
+   "degree": "Postdoctoral Research",
+   "keywords": [
+    "postdoctoral",
+    "post-doctoral",
+    "postdoc",
+    "post doctoral fellow"
+   ]
+  }
+ ],
+ "fields": [
+  {
+   "field": "Agriculture",
+   "keywords": [
+    "agronomy",
+    "horticulture",
+    "soil science",
+    "crop",
+    "agricultur",
+    "farming",
+    "plant breeding",
+    "plant pathology",
+    "entomology",
+    "agricultural",
+    "farm management",
+    "seed technology",
+    "agronomic"
+   ]
+  },
+  {
+   "field": "Forestry",
+   "keywords": [
+    "forest",
+    "forestry",
+    "wildlife",
+    "silviculture",
+    "agroforestry"
+   ]
+  },
+  {
+   "field": "Environmental Science",
+   "keywords": [
+    "environment",
+    "climate",
+    "eia",
+    "environmental impact",
+    "sustainability",
+    "sustainable",
+    "pollution",
+    "carbon",
+    "ecology",
+    "biodiversity",
+    "renewable energy",
+    "waste management",
+    "air quality",
+    "water quality",
+    "conservation"
+   ]
+  },
+  {
+   "field": "Life Sciences / Biology",
+   "keywords": [
+    "biology",
+    "biological",
+    "botany",
+    "zoology",
+    "microbiology",
+    "life science",
+    "molecular",
+    "genetics",
+    "biochemistry",
+    "neuroscience",
+    "cell biology",
+    "physiology"
+   ]
+  },
+  {
+   "field": "Biotechnology",
+   "keywords": [
+    "biotech",
+    "biotechnology",
+    "genetic engineering",
+    "genomics",
+    "proteomics",
+    "bioinformatics"
+   ]
+  },
+  {
+   "field": "Food Technology",
+   "keywords": [
+    "food technology",
+    "food science",
+    "food processing",
+    "food safety",
+    "dairy technology",
+    "food engineering"
+   ]
+  },
+  {
+   "field": "Veterinary and Animal Sciences",
+   "keywords": [
+    "veterinary",
+    "animal science",
+    "animal husbandry",
+    "livestock",
+    "poultry",
+    "dairy science",
+    "animal health"
+   ]
+  },
+  {
+   "field": "Earth Sciences / Geology",
+   "keywords": [
+    "geology",
+    "geological",
+    "geophysics",
+    "earth science",
+    "remote sensing",
+    "geospatial",
+    "hydrology",
+    "oceanograph",
+    "meteorology",
+    "gis "
+   ]
+  },
+  {
+   "field": "Chemistry",
+   "keywords": [
+    "chemistry",
+    "chemical sciences",
+    "analytical chemistry",
+    "organic chemistry",
+    "polymer"
+   ]
+  },
+  {
+   "field": "Physics",
+   "keywords": [
+    "physics",
+    "astrophysics",
+    "photonics",
+    "quantum",
+    "astronomy"
+   ]
+  },
+  {
+   "field": "Mathematics and Statistics",
+   "keywords": [
+    "mathematics",
+    "statistics",
+    "statistical",
+    "actuarial",
+    "maths"
+   ]
+  },
+  {
+   "field": "Computer Science / IT",
+   "keywords": [
+    "computer science",
+    "software",
+    "programming",
+    "web development",
+    "app development",
+    "information technology",
+    "cybersecurity",
+    "cyber security",
+    "cloud computing",
+    "developer intern"
+   ]
+  },
+  {
+   "field": "Data Science / AI",
+   "keywords": [
+    "data science",
+    "machine learning",
+    "artificial intelligence",
+    "deep learning",
+    "data analyst",
+    "data analytics",
+    "natural language processing",
+    "ai intern",
+    "ai/ml"
+   ]
+  },
+  {
+   "field": "Engineering",
+   "keywords": [
+    "engineering",
+    "mechanical",
+    "civil engineering",
+    "electrical",
+    "electronics",
+    "chemical engineering",
+    "aerospace",
+    "robotics",
+    "mechatronics",
+    "automobile"
+   ]
+  },
+  {
+   "field": "Pharmacy",
+   "keywords": [
+    "pharmacy",
+    "pharmaceutical",
+    "pharmacology",
+    "pharmaceutics",
+    "pharmacovigilance",
+    "drug"
+   ]
+  },
+  {
+   "field": "Medicine and Health Sciences",
+   "keywords": [
+    "medical",
+    "medicine",
+    "dentistry",
+    "nursing",
+    "public health",
+    "physiotherapy",
+    "clinical",
+    "healthcare",
+    "biomedical",
+    "health sciences",
+    "epidemiology"
+   ]
+  },
+  {
+   "field": "Commerce / Management",
+   "keywords": [
+    "commerce",
+    "management",
+    "marketing",
+    "finance",
+    "accounting",
+    "human resources",
+    "business development",
+    "operations management",
+    "sales intern",
+    "mba intern"
+   ]
+  },
+  {
+   "field": "Social Sciences and Humanities",
+   "keywords": [
+    "social science",
+    "humanities",
+    "economics",
+    "political science",
+    "history",
+    "sociology",
+    "psychology",
+    "philosophy",
+    "anthropology",
+    "development studies",
+    "geography",
+    "literature"
+   ]
+  },
+  {
+   "field": "Law",
+   "keywords": [
+    "law intern",
+    "legal",
+    "llb",
+    "judiciary",
+    "litigation",
+    "law students",
+    "legal research"
+   ]
+  },
+  {
+   "field": "Education",
+   "keywords": [
+    "education",
+    "teaching",
+    "pedagogy",
+    "curriculum",
+    "teacher training",
+    "educational"
+   ]
+  },
+  {
+   "field": "Media and Communication",
+   "keywords": [
+    "media",
+    "journalism",
+    "mass communication",
+    "content writing",
+    "content writer",
+    "social media",
+    "public relations",
+    "advertising",
+    "communication intern"
+   ]
+  },
+  {
+   "field": "Other",
+   "keywords": []
+  }
+ ]
+}

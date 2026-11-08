@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Use — Internship Finder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="main-content">
+  <div class="container">
+    <section class="card legal" style="margin-top:2rem;">
+      <h2>Terms of Use</h2>
+      <p class="muted">Last updated: 8 November 2026</p>
+
+      <p><strong>1. What this site is.</strong> Internship Finder is an independent, student-built project created by Praveen. It is an aggregator: it collects internships, research programmes, scholarships and fellowships from official websites and public feeds, and links directly to the original postings. It is not affiliated with any university, company, coaching institute or government body, and it never hosts applications.</p>
+
+      <p><strong>2. Listings belong to their publishers.</strong> Every listing is the property of its original publisher. Details such as stipend, eligibility and deadline can change or contain errors on the source itself, so always verify everything on the original site before applying. We work to keep listings accurate and verified, but we cannot guarantee that any listing is current, correct or still open.</p>
+
+      <p><strong>3. Never pay for an internship.</strong> A genuine internship, scholarship or fellowship does not ask you for money to apply or to "confirm" a seat. If any listing or person asks you to pay for an opportunity itself, treat it as a scam, do not pay, and report it through the contact form on the homepage.</p>
+
+      <p><strong>4. Premium.</strong> Premium (<span id="termsPrice">₹149 for 6 months</span>) pays only for utility features <!-- // FIX 5 — filled from PRICE + MONTHS in config.js --> on this site: the full daily list beyond the free daily limit, deadline reminders, a downloadable deadline calendar, and digest export. <!-- // FIX 4 — eligibility tags are free for everyone, not a Premium feature --> Premium never charges for an internship itself and never guarantees that you will receive an internship, scholarship or any other outcome. Premium is currently inactive and will open only when the owner enables it.</p>
+
+      <p><strong>5. Refund policy.</strong> Premium is refunded if no opportunity matching your degree appears in 30 days, or if it was activated by mistake. To request a refund, contact the owner with your UPI transaction ID using the email in section 8 or the contact form on the homepage.</p>
+
+      <p><strong>6. Acceptable use.</strong> Use this site for your own job and study search. Do not scrape it in bulk, misrepresent listings, or use it to contact publishers in the site's name.</p>
+
+      <p><strong>7. Liability.</strong> The site is provided "as is", run by a student in his spare time. We are not responsible for decisions you make based on a listing, for the content or availability of external sites we link to, or for any loss arising from an outdated or incorrect listing. Your relationship is always with the original publisher.</p>
+
+      <p><strong>8. Contact.</strong> The owner can be reached at <strong>braincraft2002@gmail.com</strong>, or through the contact form on the <a href="index.html">homepage</a>. (This email is published only on this page.)</p>
+
+      <p><strong>9. Changes.</strong> These terms may be updated as the site evolves. The current version always lives on this page.</p>
+    </section>
+  </div>
+</div>
+<footer>Built for students. Listings belong to their original publishers; always verify stipend and deadline on the original site.<br><a href="index.html">Home</a> · <a href="Privacy.html">Privacy Policy</a></footer>
+<script src="config.js"></script> <!-- // FIX 5 -->
+<script>document.getElementById("termsPrice").textContent = "₹" + PRICE + " for " + MONTHS + " months";</script> <!-- // FIX 5 -->
+</body>
+</html>

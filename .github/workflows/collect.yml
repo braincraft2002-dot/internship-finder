@@ -1,0 +1,56 @@
+name: Daily internship collector
+
+on:
+  schedule:
+    # 06:00 IST daily = 00:30 UTC
+    - cron: "30 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run collector
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
+        run: |
+          set -o pipefail
+          python scripts/collect.py 2>&1 | tee run-log.txt
+
+      - name: Upload run log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: collector-run-log
+          path: run-log.txt
+          retention-days: 30
+
+      - name: Commit updated listings (only if changed)
+        run: |
+          if git diff --quiet -- site/data/listings.json; then
+            echo "listings.json unchanged — nothing to commit."
+          else
+            git config user.name "internship-finder-collector"
+            git config user.email "braincraft2002@gmail.com"
+            git add site/data/listings.json
+            git commit -m "Daily listings refresh ($(date -u +%F))"
+            git push
+          fi

@@ -1,0 +1,369 @@
+{
+ "sources": [
+  {
+   "name": "Remotive API",
+   "type": "api",
+   "url": "https://remotive.com/api/remote-jobs?search=intern&limit=50",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "Worldwide",
+   "enabled": true,
+   "parser": "remotive"
+  },
+  {
+   "name": "Arbeitnow API",
+   "type": "api",
+   "url": "https://www.arbeitnow.com/api/job-board-api",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "Worldwide",
+   "enabled": true,
+   "parser": "arbeitnow"
+  },
+  {
+   "name": "RemoteOK API",
+   "type": "api",
+   "url": "https://remoteok.com/api",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "Worldwide",
+   "enabled": true,
+   "parser": "remoteok"
+  },
+  {
+   "name": "Adzuna India API",
+   "type": "api",
+   "url": "https://api.adzuna.com/v1/api/jobs/in/search/1",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "India",
+   "enabled": true,
+   "parser": "adzuna"
+  },
+  {
+   "name": "Jooble API",
+   "type": "api",
+   "url": "https://jooble.org/api/",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "India",
+   "enabled": true,
+   "parser": "jooble"
+  },
+  {
+   "name": "Biotecnika",
+   "type": "rss",
+   "url": "https://www.biotecnika.org/feed/",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "Google News — internships India",
+   "type": "rss",
+   "url": "https://news.google.com/rss/search?q=internship+students+india+apply&hl=en-IN&gl=IN&ceid=IN:en",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "Google News — scholarships India",
+   "type": "rss",
+   "url": "https://news.google.com/rss/search?q=scholarship+students+india+apply&hl=en-IN&gl=IN&ceid=IN:en",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "Freshersworld Internships",
+   "type": "html",
+   "url": "https://www.freshersworld.com/jobs/type/internship-job",
+   "sourceType": "aggregator",
+   "org": "",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "National Career Service",
+   "type": "html",
+   "url": "https://www.ncs.gov.in/",
+   "sourceType": "official",
+   "org": "National Career Service",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "National Scholarship Portal (NSP)",
+   "type": "html",
+   "url": "https://scholarships.gov.in/",
+   "sourceType": "official",
+   "org": "National Scholarship Portal",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "DST INSPIRE",
+   "type": "html",
+   "url": "https://online-inspire.gov.in/",
+   "sourceType": "official",
+   "org": "DST — INSPIRE Programme",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "UGC",
+   "type": "html",
+   "url": "https://www.ugc.gov.in/",
+   "sourceType": "official",
+   "org": "University Grants Commission (UGC)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "MyGov",
+   "type": "html",
+   "url": "https://www.mygov.in/",
+   "sourceType": "official",
+   "org": "MyGov",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "MoEFCC",
+   "type": "html",
+   "url": "https://moef.gov.in/",
+   "sourceType": "official",
+   "org": "Ministry of Environment, Forest and Climate Change (MoEF&CC)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "MNRE",
+   "type": "html",
+   "url": "https://mnre.gov.in/",
+   "sourceType": "official",
+   "org": "Ministry of New and Renewable Energy (MNRE)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "MeitY",
+   "type": "html",
+   "url": "https://www.meity.gov.in/",
+   "sourceType": "official",
+   "org": "Ministry of Electronics and Information Technology (MeitY)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "NITI Aayog",
+   "type": "html",
+   "url": "https://www.niti.gov.in/",
+   "sourceType": "official",
+   "org": "NITI Aayog",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "RBI",
+   "type": "html",
+   "url": "https://www.rbi.org.in/",
+   "sourceType": "official",
+   "org": "Reserve Bank of India (RBI)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "SEBI",
+   "type": "html",
+   "url": "https://www.sebi.gov.in/",
+   "sourceType": "official",
+   "org": "Securities and Exchange Board of India (SEBI)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "NABARD",
+   "type": "html",
+   "url": "https://www.nabard.org/",
+   "sourceType": "official",
+   "org": "NABARD",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "ICAR",
+   "type": "html",
+   "url": "https://icar.org.in/",
+   "sourceType": "official",
+   "org": "Indian Council of Agricultural Research (ICAR)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "ICFRE",
+   "type": "html",
+   "url": "https://icfre.gov.in/",
+   "sourceType": "official",
+   "org": "Indian Council of Forestry Research and Education (ICFRE)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "Forest Research Institute (FRI)",
+   "type": "html",
+   "url": "https://fri.icfre.gov.in/",
+   "sourceType": "official",
+   "org": "Forest Research Institute (FRI)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "Wildlife Institute of India (WII)",
+   "type": "html",
+   "url": "https://wii.gov.in/",
+   "sourceType": "official",
+   "org": "Wildlife Institute of India (WII)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "CSIR",
+   "type": "html",
+   "url": "https://www.csir.res.in/",
+   "sourceType": "official",
+   "org": "Council of Scientific and Industrial Research (CSIR)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "CSIR-NEERI",
+   "type": "html",
+   "url": "https://www.neeri.res.in/",
+   "sourceType": "official",
+   "org": "CSIR-National Environmental Engineering Research Institute (NEERI)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "CPCB",
+   "type": "html",
+   "url": "https://cpcb.nic.in/",
+   "sourceType": "official",
+   "org": "Central Pollution Control Board (CPCB)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "DRDO",
+   "type": "html",
+   "url": "https://www.drdo.gov.in/",
+   "sourceType": "official",
+   "org": "Defence Research and Development Organisation (DRDO)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "ISRO",
+   "type": "html",
+   "url": "https://www.isro.gov.in/",
+   "sourceType": "official",
+   "org": "Indian Space Research Organisation (ISRO)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "ICMR",
+   "type": "html",
+   "url": "https://www.icmr.gov.in/",
+   "sourceType": "official",
+   "org": "Indian Council of Medical Research (ICMR)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "DBT",
+   "type": "html",
+   "url": "https://dbtindia.gov.in/",
+   "sourceType": "official",
+   "org": "Department of Biotechnology (DBT)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "IISc Bengaluru",
+   "type": "html",
+   "url": "https://iisc.ac.in/",
+   "sourceType": "official",
+   "org": "Indian Institute of Science (IISc)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "IASc Summer Research Fellowship",
+   "type": "html",
+   "url": "https://www.ias.ac.in/",
+   "sourceType": "official",
+   "org": "Indian Academy of Sciences (IASc)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "IISER Pune",
+   "type": "html",
+   "url": "https://www.iiserpune.ac.in/",
+   "sourceType": "official",
+   "org": "IISER Pune",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "GBPUAT Pantnagar",
+   "type": "html",
+   "url": "https://www.gbpuat.ac.in/",
+   "sourceType": "official",
+   "org": "G.B. Pant University of Agriculture and Technology",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "Punjab Agricultural University",
+   "type": "html",
+   "url": "https://www.pau.edu/",
+   "sourceType": "official",
+   "org": "Punjab Agricultural University (PAU)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "TNAU",
+   "type": "html",
+   "url": "https://tnau.ac.in/",
+   "sourceType": "official",
+   "org": "Tamil Nadu Agricultural University (TNAU)",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "CCSHAU Hisar",
+   "type": "html",
+   "url": "https://www.hau.edu.in/",
+   "sourceType": "official",
+   "org": "CCS Haryana Agricultural University",
+   "country": "India",
+   "enabled": true
+  },
+  {
+   "name": "AICTE Internship Portal",
+   "type": "playwright",
+   "url": "https://internship.aicte-india.org/",
+   "sourceType": "official",
+   "org": "AICTE",
+   "country": "India",
+   "enabled": true
+  }
+ ]
+}

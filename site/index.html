@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Internship Finder: Internships, Scholarships and Govt Schemes for Students</title>
+<meta name="description" content="One daily list of internships, research programmes, scholarships and government schemes filtered for your degree and semester. Never pay anyone for an internship.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<noscript> <!-- // FIX 1 -->
+  <div class="safety-warning" style="margin:1rem;" role="alert"><strong>JavaScript is disabled:</strong> Internship Finder needs JavaScript to load internships. Please enable JavaScript in your browser and reload this page.</div> <!-- // FIX 1 -->
+</noscript> <!-- // FIX 1 -->
+
+<!-- ==================== Header ==================== -->
+<header class="topbar">
+  <div class="container header-inner">
+    <div class="brand">
+      <span class="logo-icon" aria-hidden="true">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+      </span>
+      <span id="siteName">Internship Finder</span>
+    </div>
+    <div class="top-actions">
+      <span id="premiumBadge" class="badge hidden">Premium</span>
+      <button id="digestBtn" class="btn btn-ghost">Digest</button>
+      <button id="premiumBtn" class="btn btn-gold">Go Premium (₹149)</button> <!-- // FIX 5 — text is set from PRICE in config.js when the page loads -->
+    </div>
+  </div>
+</header>
+
+<!-- ==================== Hero ==================== -->
+<section class="hero">
+  <div class="container">
+    <h1>Internships made for your degree.</h1>
+    <p class="hero-sub">One daily list of internships, research and scholarships for your degree.</p>
+
+    <div class="stats-bar">
+      <div class="stat">
+        <strong id="statTotal">–</strong> <!-- // FIX 1 -->
+        <span>live listings</span>
+      </div>
+      <div class="stat">
+        <strong id="statPaid">–</strong> <!-- // FIX 1 -->
+        <span>paid / stipend</span>
+      </div>
+      <div class="stat">
+        <strong id="statIndia">–</strong> <!-- // FIX 1 -->
+        <span>India</span>
+      </div>
+      <div class="stat">
+        <strong id="statToday">–</strong> <!-- // FIX 1 -->
+        <span>found today</span>
+      </div>
+      <div class="stat">
+        <strong id="statUpdated">–</strong> <!-- // FIX 1 -->
+        <span>last updated</span>
+      </div>
+    </div>
+
+    <div class="safety-warning">
+      <strong>Public Notice:</strong> Never pay anyone for an internship. Always apply directly on the official host website linked on each card.
+    </div>
+  </div>
+</section>
+
+<!-- ==================== Main Content ==================== -->
+<div class="main-content">
+  <div class="container">
+
+    <!-- ---- Profile ---- -->
+    <section class="profile card">
+      <h2>My Profile <small>(Choose your degree, field and semester, then click Apply changes)</small></h2>
+      <div class="row">
+        <label>Degree
+          <select id="profileDegree">
+            <option value="">Select degree…</option>
+            <option>Diploma</option>
+            <option>B.Sc.</option>
+            <option>B.Sc. Agriculture</option>
+            <option>B.Tech / B.E.</option>
+            <option>B.A. / B.Com / BBA</option>
+            <option>BCA</option>
+            <option>B.Pharm</option>
+            <option>MBBS / BDS</option>
+            <option>BVSc (Veterinary)</option>
+            <option>M.Sc.</option>
+            <option>M.Sc. Agriculture</option>
+            <option>M.Tech</option>
+            <option>M.A. / M.Com / MBA</option>
+            <option>MCA</option>
+            <option>M.Pharm</option>
+            <option>MD / MS (Medical)</option>
+            <option>MVSc (Veterinary)</option>
+            <option>Ph.D / Research</option>
+            <option>Postdoctoral Research</option>
+          </select>
+        </label>
+        <label>Field of Study
+          <select id="profileField">
+            <option value="">All fields</option>
+            <option>Environmental Science</option>
+            <option>Agriculture</option>
+            <option>Life Sciences / Biology</option>
+            <option>Biotechnology</option>
+            <option>Forestry</option>
+            <option>Food Technology</option>
+            <option>Veterinary and Animal Sciences</option>
+            <option>Earth Sciences / Geology</option>
+            <option>Chemistry</option>
+            <option>Physics</option>
+            <option>Mathematics and Statistics</option>
+            <option>Computer Science / IT</option>
+            <option>Data Science / AI</option>
+            <option>Engineering</option>
+            <option>Pharmacy</option>
+            <option>Medicine and Health Sciences</option>
+            <option>Commerce / Management</option>
+            <option>Social Sciences and Humanities</option>
+            <option>Law</option>
+            <option>Education</option>
+            <option>Media and Communication</option>
+            <option>Other</option>
+          </select>
+        </label>
+        <label>Semester
+          <select id="profileSem">
+            <option value="">Select semester…</option>
+            <option>1</option><option>2</option><option>3</option><option>4</option>
+            <option>5</option><option>6</option><option>7</option><option>8</option>
+            <option>Final year completed</option>
+          </select>
+        </label>
+      </div>
+      <div class="profile-actions">
+        <button id="applyProfileBtn" class="btn btn-primary" type="button">Apply changes</button>
+        <span id="profileStatus" class="profile-status" role="status">Choose your degree, field of study and semester, then apply — listings will be matched to you.</span>
+      </div>
+    
+    </section>
+
+    <!-- ---- Search & Filters ---- -->
+    <section class="filters card">
+      <div class="search-row">
+        <input id="searchBox" type="search" placeholder="Quick search: try WWF, MoEFCC, climate, remote…">
+      </div>
+      <div class="chips">
+        <button class="chip active" data-filter="region" data-value="">All regions</button>
+        <button class="chip" data-filter="region" data-value="India">India</button>
+        <button class="chip" data-filter="region" data-value="Worldwide">Worldwide / Remote</button>
+        <button class="chip" data-filter="kind" data-value="Internship">Internships</button>
+        <button class="chip" data-filter="kind" data-value="Research Programme">Research</button>
+        <button class="chip" data-filter="kind" data-value="Scholarship">Scholarships</button>
+        <button class="chip" data-filter="kind" data-value="Foreign Programme">Foreign</button>
+        <button class="chip" data-filter="mode" data-value="Remote">Remote only</button>
+        <button class="chip" data-filter="paid" data-value="1">Paid only</button>
+        <button class="chip" data-filter="saved" data-value="1">My list</button>
+        <button class="chip" data-filter="expired" data-value="1">Show expired</button> <!-- // FIX 2 -->
+      </div>
+      <p class="count"><span id="showingCount">Loading listings…</span></p>
+    </section>
+
+    <!-- ---- Listings Grid ---- -->
+    <main id="listings" class="grid" aria-live="polite"></main>
+
+    <!-- ---- Locked Note ---- -->
+    <div id="lockedNote" class="locked-note hidden"></div>
+    <p class="muted" style="margin-top:0.75rem;">Listings belong to their original publishers. Always verify stipend, eligibility and deadlines on the official site.</p> <!-- // FIX 6 -->
+
+    <!-- ---- Application Tracker ---- -->
+    <section class="card" id="trackerCard">
+      <h2>My Application Tracker</h2>
+      <div id="trackerList">
+        <p class="muted">Bookmark a listing and it will appear here. Set its status as you apply.</p>
+      </div>
+      <div class="tracker-actions">
+        <button id="downloadCalendarBtn" class="btn btn-primary" type="button">Download Deadline Calendar (.ics)</button>
+        <span class="muted">Adds saved deadlines with 7-day and 1-day notification alarms to your phone calendar</span>
+      </div>
+    </section>
+
+    <!-- ---- Premium Box ---- -->
+    <section class="card premium-box" id="premiumBox">
+      <h2>Free vs Premium Plans</h2>
+
+      <div class="plan-grid">
+        <div class="plan-col">
+          <div class="plan-col-title">
+            <span>Free Plan</span>
+            <span class="badge">Active</span>
+          </div>
+          <div class="plan-col-price">₹0 <small>/ forever</small></div>
+          <ul class="plan-features">
+            <li>First 10 listings per day</li>
+            <li>Live search and regional filters</li>
+            <li>Degree and field sorting</li>
+            <li><strong>Eligibility tags for your degree and semester</strong> on every listing</li> <!-- // FIX 4 -->
+            <li>Basic bookmarking and application tracker</li>
+            <li>Daily 10-item digest export</li>
+          </ul>
+        </div>
+
+        <div class="plan-col premium">
+          <div class="plan-col-title">
+            <span>Premium Plan</span>
+            <span class="badge">UPI Direct</span>
+          </div>
+          <div class="plan-col-price" id="planPrice">₹149 <small>/ 6 months</small></div> <!-- // FIX 5 — filled from PRICE + MONTHS in config.js -->
+          <ul class="plan-features">
+            <li><strong>Full daily list, unlocked</strong> (Free plan stops at 10/day)</li>
+            <li><strong>Deadline reminders</strong> (Urgent alerts 7 days and 1 day before closing)</li>
+            <li><strong>Deadline calendar download (.ics)</strong> (One tap adds all saved deadlines to your phone calendar)</li>
+            <!-- // FIX 4 — eligibility tags removed from Premium: free for everyone -->
+            <li><strong>Daily digest export</strong> up to 50 opportunities</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="reminders-caveat">
+        <strong>Honest note on reminders:</strong> Today the site alerts you whenever you open it. Tapping “Download Deadline Calendar (.ics)” adds automatic alarms directly to your calendar (Google, Apple, Outlook). Direct WhatsApp and email alerts launch when user accounts arrive.
+      </div>
+
+      <div id="premiumPay"></div>
+
+      <div class="unlock-box"> <!-- ACCESS-CODE -->
+        <p><strong>Have an access code?</strong></p>
+        <p class="muted">Enter it to unlock Premium free — no payment needed.</p>
+        <input id="activationInput" type="text" placeholder="Enter access code" style="padding:8px;border:1px solid var(--line);border-radius:8px;">
+        <button id="activateBtn" type="button" class="btn btn-primary">Unlock Premium</button>
+        <p id="activateMsg" class="muted"></p>
+      </div>
+    </section>
+
+    <!-- ---- About & Policies ---- -->
+    <section class="card legal">
+      <h2>About and Policies</h2>
+      <p><strong>About:</strong> Internship Finder was built by <strong>Praveen</strong>, a student, as an <strong>independent student-built project</strong> — it is not affiliated with any university, company or government body. Every day it collects internships, research programmes, scholarships and fellowships from official sources and public feeds, matches them to your degree and field of study, and links you straight to the official posting.</p> <!-- // FIX 3 -->
+      <p><strong>What this is:</strong> an aggregator. We index opportunities from public feeds and official sites, linking directly to original postings. We never host applications or charge for internships; Premium pays for utility features.</p>
+      <p><strong>Refund policy:</strong> refunded if no opportunity matching your degree appears in 30 days, or if activated by mistake. Contact the owner with your UPI transaction ID.</p>
+      <p><strong>Privacy:</strong> Your profile, bookmarks and tracker stay in your browser. We do not store them on a server. If you buy Premium or request a refund, we receive your email and UPI transaction ID, used only to verify payment.</p> <!-- // FIX 4 -->
+      <h3 id="contact" style="margin-top:1.25rem;">Contact</h3> <!-- // FIX 3 -->
+      <p class="muted">Questions, a correction, or a listing to suggest? Send a message here — replies go to your email.</p> <!-- // FIX 3 -->
+      <form name="contact" method="POST" data-netlify="true"> <!-- // FIX 3 -->
+        <input type="hidden" name="form-name" value="contact"> <!-- // FIX 3 -->
+        <p><label>Your email<br><input type="email" name="email" required placeholder="you@example.com" style="width:100%;padding:8px;border:1px solid var(--line);border-radius:8px;"></label></p> <!-- // FIX 3 -->
+        <p><label>Message<br><textarea id="contactMessage" name="message" rows="4" required placeholder="Write your message…" style="width:100%;padding:8px;border:1px solid var(--line);border-radius:8px;"></textarea></label></p> <!-- // FIX 3 -->
+        <p><button type="submit" class="btn btn-primary">Send message</button></p> <!-- // FIX 3 -->
+      </form> <!-- // FIX 3 -->
+    </section>
+
+    <!-- ---- Sources ---- -->
+    <section class="card legal" id="sourcesSection"> <!-- // FIX 6 -->
+      <h2>Sources</h2>
+      <p>Every listing on this site comes from one of these official websites and public feeds. We link straight to the original posting and never host applications.</p>
+      <ul id="sourcesList" style="line-height:1.9;"></ul> <!-- // FIX 6 — filled from the live listings data by app.js -->
+      <p class="muted">Public job feeds checked by the collector: RemoteOK, Remotive, Arbeitnow and Adzuna — a feed appears in the list above only when it contributed a live listing.</p>
+      <p><strong>Listings belong to their original publishers. Always verify stipend, eligibility and deadlines on the official site.</strong></p> <!-- // FIX 6 -->
+    </section>
+
+  </div><!-- .container -->
+</div><!-- .main-content -->
+
+<!-- ==================== Footer ==================== -->
+<footer>Built for students. Listings belong to their original publishers; always verify stipend and deadline on the original site.<br><a href="Terms.html">Terms of Use</a> · <a href="Privacy.html">Privacy Policy</a> · <a href="index.html#contact">Contact</a></footer> <!-- // FIX 3 -->
+
+<!-- ==================== Digest Dialog ==================== -->
+<dialog id="digestDialog">
+  <h3>Your Daily Digest</h3>
+  <pre id="digestText"></pre>
+  <div class="row">
+    <button id="copyDigest" class="btn btn-primary">Copy digest</button>
+    <button id="closeDigest" class="btn btn-ghost">Close</button>
+  </div>
+</dialog>
+
+<!-- ==================== Scripts ==================== -->
+<script src="config.js"></script>
+<script src="app.js"></script>
+<script>
+// Non-intrusive hook to populate statPaid and statIndia from listings data
+(function(){
+  function syncStats(){
+    fetch("data/listings.json", {cache:"no-store"})
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        if (!d || !d.listings) return;
+        var paidCount = d.listings.filter(function(l){ return l.paid; }).length;
+        var indiaCount = d.listings.filter(function(l){ return l.country === "India"; }).length;
+        var sp = document.getElementById("statPaid");
+        var si = document.getElementById("statIndia");
+        if (sp) sp.textContent = paidCount;
+        if (si) si.textContent = indiaCount;
+      }).catch(function(){});
+  }
+  syncStats();
+
+  // Deadline Calendar Download (.ics)
+  var calBtn = document.getElementById("downloadCalendarBtn");
+  if(calBtn){
+    calBtn.addEventListener("click", function(){
+      var raw = localStorage.getItem("if_bookmarks");
+      var ids = [];
+      try { ids = JSON.parse(raw) || []; } catch(e){}
+      if(!ids || !ids.length){
+        alert("Please bookmark at least one opportunity first to export its deadline to your calendar.");
+        return;
+      }
+      fetch("data/listings.json", {cache:"no-store"})
+        .then(function(r){ return r.json(); })
+        .then(function(d){
+          var list = (d && d.listings) || [];
+          var bookmarked = list.filter(function(x){ return ids.indexOf(x.id) >= 0; });
+          if(!bookmarked.length){
+            alert("No matching bookmarked opportunities found.");
+            return;
+          }
+          var months = {january:"01",february:"02",march:"03",april:"04",may:"05",june:"06",july:"07",august:"08",september:"09",october:"10",november:"11",december:"12"};
+          var icsLines = [
+            "BEGIN:VCALENDAR",
+            "VERSION:2.0",
+            "PRODID:-//Internship Finder//Student Deadline Calendar//EN",
+            "CALSCALE:GREGORIAN",
+            "METHOD:PUBLISH",
+            "X-WR-CALNAME:Internship Deadlines"
+          ];
+          bookmarked.forEach(function(l){
+            var dt = "20261231";
+            if(l.deadlineText){
+              var m = /(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/.exec(l.deadlineText);
+              if(m){
+                var day = m[1].length === 1 ? "0" + m[1] : m[1];
+                var mon = months[m[2].toLowerCase()] || "12";
+                dt = m[3] + mon + day;
+              }
+            }
+            var cleanTitle = (l.title || "Opportunity").replace(/[,;\\]/g, " ");
+            var cleanOrg = (l.company || "").replace(/[,;\\]/g, " ");
+            var cleanUrl = l.sourceUrl || "https://internship-finder-zp6g.netlify.app";
+            var desc = "Organization: " + cleanOrg + "\\nDeadline: " + (l.deadlineText || "See posting") + (l.stipendText ? "\\nStipend: " + l.stipendText : "") + "\\nApply: " + cleanUrl;
+            icsLines.push("BEGIN:VEVENT");
+            icsLines.push("UID:" + l.id + "@internshipfinder");
+            icsLines.push("DTSTAMP:" + new Date().toISOString().replace(/[-:]/g, "").slice(0, 15) + "Z");
+            icsLines.push("DTSTART;VALUE=DATE:" + dt);
+            icsLines.push("DTEND;VALUE=DATE:" + dt);
+            icsLines.push("SUMMARY:" + cleanTitle + " (Deadline)");
+            icsLines.push("DESCRIPTION:" + desc);
+            icsLines.push("URL:" + cleanUrl);
+            icsLines.push("BEGIN:VALARM");
+            icsLines.push("ACTION:DISPLAY");
+            icsLines.push("DESCRIPTION:Reminder: " + cleanTitle + " deadline in 7 days");
+            icsLines.push("TRIGGER:-P7D");
+            icsLines.push("END:VALARM");
+            icsLines.push("BEGIN:VALARM");
+            icsLines.push("ACTION:DISPLAY");
+            icsLines.push("DESCRIPTION:URGENT: " + cleanTitle + " deadline tomorrow");
+            icsLines.push("TRIGGER:-P1D");
+            icsLines.push("END:VALARM");
+            icsLines.push("END:VEVENT");
+          });
+          icsLines.push("END:VCALENDAR");
+          var blob = new Blob([icsLines.join("\r\n")], {type: "text/calendar;charset=utf-8"});
+          var dlUrl = URL.createObjectURL(blob);
+          var a = document.createElement("a");
+          a.href = dlUrl;
+          a.download = "internship-deadlines.ics";
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(dlUrl);
+        })
+        .catch(function(){
+          alert("Unable to generate calendar right now. Please refresh and try again.");
+        });
+    });
+  }
+})();
+</script>
+</body>
+</html>

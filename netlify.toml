@@ -1,0 +1,7 @@
+# Netlify reads this from the repo root when the site is connected to GitHub.
+# The publishable site lives in site/ (index.html, app.js, data/listings.json).
+# No build command is needed — the collector commits listings.json directly,
+# and every push (including the collector's daily commit) auto-deploys.
+[build]
+  publish = "site"
+  command = ""

@@ -1,0 +1,10 @@
+# Local staging / backup folders — not part of the deployable project
+collector-v2/
+fix*/
+loading-fix/
+seo-premium/
+design-*-backup/
+antigravity-v3/
+supabase/
+__pycache__/
+*.pyc
