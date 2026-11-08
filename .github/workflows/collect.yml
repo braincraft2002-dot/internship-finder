@@ -45,8 +45,20 @@ jobs:
 
       - name: Commit updated listings (only if changed)
         run: |
-          if git diff --quiet -- site/data/listings.json; then
-            echo "listings.json unchanged — nothing to commit."
+          # Ignore the generatedAt timestamp: only commit (and trigger a
+          # Netlify deploy) when the listings themselves actually changed.
+          if python3 - <<'EOF'
+          import json, subprocess, sys
+          old = json.loads(subprocess.run(["git", "show", "HEAD:site/data/listings.json"],
+                                          capture_output=True, text=True).stdout)
+          new = json.load(open("site/data/listings.json"))
+          same = old.get("listings") == new.get("listings")
+          print("listings identical (ignoring generatedAt)" if same else "listings changed")
+          sys.exit(0 if same else 1)
+          EOF
+          then
+            git checkout -- site/data/listings.json
+            echo "No listing changes — no commit, no deploy."
           else
             git config user.name "internship-finder-collector"
             git config user.email "braincraft2002@gmail.com"
