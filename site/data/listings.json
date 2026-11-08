@@ -1,6 +1,913 @@
 {
- "generatedAt": "2026-11-08T09:20:10.111044+05:30",
+ "generatedAt": "2026-11-08T15:15:12+05:30",
  "listings": [
+  {
+   "id": "arbeitnow-2027-summer-intern-ms-phd-machine-learning-simulation-realism-waymo",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+   "company": "Waymo",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Computer Science / IT",
+   "fields": [
+    "Computer Science / IT",
+    "Data Science / AI",
+    "Engineering"
+   ],
+   "degrees": [
+    "Ph.D / Research"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "recurring",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/waymo/2027-summer-intern-ms-phd-machine-learning-simulation-realism-london-169277",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "national-scholarship-portal-nsp-students",
+   "title": "Students",
+   "company": "National Scholarship Portal",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Students Students Apply For One Time Registration (OTR) Apply For Scholarship Schemes on NSP Scholarship Eligibility Application Status Track Your Payment Aadhaar Seva Kendra Check Aadhaar Seeding Status NSP OTR APP Check UDID details How to seed Aadhaar with the Bank Account",
+   "levels": [],
+   "descriptionSnippet": "Students Students Apply For One Time Registration (OTR) Apply For Scholarship Schemes on NSP Scholarship Eligibility Application Status Track Your Payment Aadhaar Seva Kendra Check Aadhaar Seeding Status NSP OTR APP Check UDID details How…",
+   "durationText": "",
+   "sourceName": "scholarships.gov.in",
+   "sourceUrl": "https://scholarships.gov.in/Students",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "national-scholarship-portal-nsp-apply-for-scholarship",
+   "title": "Apply For Scholarship",
+   "company": "National Scholarship Portal",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Apply For Scholarship",
+   "levels": [],
+   "descriptionSnippet": "Apply For Scholarship",
+   "durationText": "",
+   "sourceName": "scholarships.gov.in",
+   "sourceUrl": "https://scholarships.gov.in/ApplicationForm/",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "national-scholarship-portal-nsp-scholarship-eligibility",
+   "title": "Scholarship Eligibility",
+   "company": "National Scholarship Portal",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Scholarship Eligibility",
+   "levels": [],
+   "descriptionSnippet": "Scholarship Eligibility",
+   "durationText": "",
+   "sourceName": "scholarships.gov.in",
+   "sourceUrl": "https://scholarships.gov.in/scholarshipEligibility",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "ugc-ugc-fellowship-and-research-grants",
+   "title": "UGC Fellowship and Research Grants",
+   "company": "University Grants Commission (UGC)",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "UGC Fellowship and Research Grants",
+   "levels": [],
+   "descriptionSnippet": "UGC Fellowship and Research Grants",
+   "durationText": "",
+   "sourceName": "frg.ugc.ac.in",
+   "sourceUrl": "https://frg.ugc.ac.in",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "ugc-web-portal-for-fellowship-scholarship-legacy-cases",
+   "title": "Web portal for Fellowship/Scholarship Legacy Cases",
+   "company": "University Grants Commission (UGC)",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Web portal for Fellowship/Scholarship Legacy Cases",
+   "levels": [],
+   "descriptionSnippet": "Web portal for Fellowship/Scholarship Legacy Cases",
+   "durationText": "",
+   "sourceName": "scholarship.canarabank.bank.in",
+   "sourceUrl": "https://scholarship.canarabank.bank.in/",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "icmr-national-health-research-programme",
+   "title": "National Health Research Programme",
+   "company": "Indian Council of Medical Research (ICMR)",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "National Health Research Programme",
+   "levels": [],
+   "descriptionSnippet": "National Health Research Programme",
+   "durationText": "",
+   "sourceName": "www.icmr.gov.in",
+   "sourceUrl": "https://www.icmr.gov.in/national-health-research-programme",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "iisc-bengaluru-iisc-faculty-awarded-royal-society-wolfson-visiting-fellowship-2026",
+   "title": "IISc Faculty Awarded Royal Society Wolfson Visiting Fellowship 2026",
+   "company": "Indian Institute of Science (IISc)",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "IISc Faculty Awarded Royal Society Wolfson Visiting Fellowship 2026",
+   "levels": [],
+   "descriptionSnippet": "IISc Faculty Awarded Royal Society Wolfson Visiting Fellowship 2026",
+   "durationText": "",
+   "sourceName": "www.iisc.ac.in",
+   "sourceUrl": "https://www.iisc.ac.in/events/iisc-faculty-awarded-royal-society-wolfson-visiting-fellowship-2026/",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "iisc-bengaluru-prof-suryasarathi-bose-received-nasi-reliance-innovation-fellowship-na",
+   "title": "Prof. Suryasarathi Bose received NASI Reliance Innovation Fellowship (NASI-RIF)-2026",
+   "company": "Indian Institute of Science (IISc)",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Prof. Suryasarathi Bose received NASI Reliance Innovation Fellowship (NASI-RIF)-2026",
+   "levels": [],
+   "descriptionSnippet": "Prof. Suryasarathi Bose received NASI Reliance Innovation Fellowship (NASI-RIF)-2026",
+   "durationText": "",
+   "sourceName": "www.iisc.ac.in",
+   "sourceUrl": "https://www.iisc.ac.in/events/prof-suryasarathi-bose-received-nasi-reliance-innovation-fellowship-nasi-rif-2026/",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-indian-army-internship-cyber-defence-engineering-cell",
+   "title": "Indian Army Internship Cyber defence & engineering cell",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/indianarmy",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-tulip-smart-cities-internship-ministry-of-housing-urban-affairs",
+   "title": "TULIP Smart Cities Internship Ministry of Housing & Urban Affairs",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/tulip",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-cpwd-internship-new-central-public-works-department-mohua",
+   "title": "CPWD Internship New Central Public Works Department - MoHUA",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/cpwd",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-national-highways-authority-of-india-internship-nhai-morth-highways-in",
+   "title": "National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/nhai",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-panchayati-raj-rural-internship-2-5-lakh-gram-panchayats-jal-jeevan",
+   "title": "Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/rural",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-amrut-2-0-water-mission-internship-new-mohua-urban-water-sanitation-mi",
+   "title": "AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & Sanitation Mission",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/amrut",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-c-dac-dashboard-internships-via-c-dac-nielit-ernet",
+   "title": "C-DAC Dashboard Internships via C-DAC, NIELIT & ERNET",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/cdac",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-morth-road-transport-internship-road-safety-vahan-green-mobility",
+   "title": "MoRTH Road Transport Internship Road safety, VAHAN & green mobility",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/morth",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-land-ports-authority-internship-integrated-check-posts-border-trade",
+   "title": "Land Ports Authority Internship Integrated Check Posts & border trade",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/lpai",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-government-of-maharashtra-internship-higher-technical-education-dept-h",
+   "title": "Government of Maharashtra Internship Higher & Technical Education Dept (HTED)",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/maharashtra",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-internship-report-2025-26-national-placement-state-metrics",
+   "title": "Internship Report 2025-26 National placement & state metrics",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/report/report_final.pdf",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-selected-interns-meet-who-made-it-this-season",
+   "title": "Selected Interns Meet who made it this season",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/selected-interns",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-impact-reports-placement-data-state-by-state",
+   "title": "Impact Reports Placement data, state by state",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/reports",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-amrutam-2-0-pin-well-login-login-well-management-web-admin-portal",
+   "title": "AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/well-management/web/admin-login",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-aicte-super-admin-admin-national-governance-employer-kyc-desk",
+   "title": "AICTE Super Admin Admin National Governance & Employer KYC Desk",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/super-admin/login",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-state-admin-desk-nodal-state-nodal-directorate-approvals",
+   "title": "State Admin Desk Nodal State Nodal Directorate & Approvals",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/state-admin/login",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "aicte-internship-portal-media-stories-films-photos-and-press",
+   "title": "Media & Stories Films, photos and press",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/media",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
   {
    "city": "New Delhi",
    "company": "Ministry of Electronics and Information Technology (MeitY)",
@@ -9,7 +916,7 @@
    "descriptionSnippet": "MeitY internship guidelines for first-hand practical work experience under a supervisor/mentor, in areas including AI and Machine Learning, cloud, blockchain and software-related domains.",
    "durationText": "2 months, extendable up to 3 months",
    "eligibilityText": "Indian students with at least 60% in the last held degree/certificate examination, pursuing B.E/B.Tech, M.E/M.Tech, M.Sc.(Electronics)/MCA or DoEACC 'B' level",
-   "field": "Computer Science / IT",
+   "field": "Engineering",
    "firstSeenAt": "2026-11-08",
    "id": "meity-digital-india-internship",
    "kind": "Internship",
@@ -24,7 +931,22 @@
    "stipendText": "Rs.10,000/- per month",
    "title": "Digital India Internship Scheme",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "M.Tech",
+    "B.Tech / B.E.",
+    "MCA",
+    "M.Sc."
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -46,7 +968,19 @@
    "stipendText": "",
    "title": "Digital India Internship Scheme for NIC",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -71,11 +1005,24 @@
    "stipendText": "",
    "title": "IndiaAI Fellowship Programme (FutureSkills)",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "M.Tech",
+    "B.Tech / B.E."
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Chennai",
-   "company": "IIT Madras – Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI)",
+   "company": "IIT Madras - Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI)",
    "country": "India",
    "deadlineText": "20th of every month",
    "descriptionSnippet": "RBCDSAI fellowship for independent research in deep learning, NLP, reinforcement learning, network analytics and other data science and AI areas, under faculty mentorship.",
@@ -95,7 +1042,19 @@
    "stipendText": "Rs 40,000 to Rs 60,000 a month",
    "title": "Post-Baccalaureate Fellowship in Data Science and AI",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Data Science / AI"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "recurring",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -121,11 +1080,23 @@
    "stipendText": "",
    "title": "DoS/ISRO Internship & Student Project Trainee Schemes",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "Ph.D / Research"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Bengaluru",
-   "company": "DRDO – Microwave Tube Research & Development Centre (MTRDC)",
+   "company": "DRDO - Microwave Tube Research & Development Centre (MTRDC)",
    "country": "India",
    "deadlineText": "",
    "descriptionSnippet": "MTRDC, Bengaluru invites applications for the DRDO Paid Internship Scheme 2026-27 from pursuing Engineering/Science UG/PG students; advertisement and application form are linked on the page.",
@@ -146,7 +1117,19 @@
    "stipendText": "",
    "title": "DRDO MTRDC Paid Internship Scheme 2026-27",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -170,7 +1153,19 @@
    "stipendText": "",
    "title": "Student READY Programme (Rural Entrepreneurship Awareness Development Yojana)",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Agriculture"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -195,7 +1190,21 @@
    "stipendText": "18000 per month (as stated in the SIS 2023-24 notification)",
    "title": "NABARD Student Internship Scheme (SIS)",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Agriculture",
+    "Commerce / Management",
+    "Social Sciences and Humanities"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -213,14 +1222,29 @@
     "UG",
     "PG"
    ],
-   "locationText": "",
+   "locationText": "India",
    "paid": false,
    "sourceName": "ncl-intern.ncl.res.in",
    "sourceUrl": "https://ncl-intern.ncl.res.in/Default",
    "stipendText": "",
    "title": "Student Internship Training Program",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "M.Pharm",
+    "M.Tech",
+    "B.Tech / B.E.",
+    "M.Sc."
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Jodhpur",
@@ -230,7 +1254,7 @@
    "descriptionSnippet": "Structured research exposure in non-communicable diseases, public health, epidemiology, implementation research, biostatistics, laboratory sciences and nutrition.",
    "durationText": "2 months & 6 months",
    "eligibilityText": "UG and PG students in Biotechnology, Biochemistry, Microbiology, Life Sciences, Public Health & Allied Subjects; final-semester PG for the 6-month programme",
-   "field": "Medicine and Health Sciences",
+   "field": "Life Sciences / Biology",
    "firstSeenAt": "2026-11-08",
    "id": "icmr-nihr-internship-dissertation",
    "kind": "Internship",
@@ -245,7 +1269,22 @@
    "stipendText": "",
    "title": "Internship / Dissertation Training",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Life Sciences / Biology",
+    "Biotechnology",
+    "Chemistry",
+    "Medicine and Health Sciences"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "deadline": "2026-12-06",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -262,14 +1301,26 @@
    "levels": [
     "UG"
    ],
-   "locationText": "",
+   "locationText": "India",
    "paid": false,
    "sourceName": "icmr.gov.in",
    "sourceUrl": "https://www.icmr.gov.in/short-term-studentship-sts",
    "stipendText": "",
    "title": "Short-Term Studentship (STS)",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Medicine and Health Sciences"
+   ],
+   "degrees": [
+    "MBBS / BDS"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "New Delhi",
@@ -295,7 +1346,19 @@
    "stipendText": "",
    "title": "Voluntary Internship Programme for Law Students",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Law"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -310,14 +1373,26 @@
    "id": "iks-institutional-internship",
    "kind": "Internship",
    "levels": [],
-   "locationText": "",
+   "locationText": "India",
    "paid": false,
    "sourceName": "iksindia.org",
    "sourceUrl": "https://iksindia.org/iks-institutional-internship.php",
    "stipendText": "",
    "title": "IKS Institutional Internship (BGSamvahan Karyakram-6)",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "New Delhi",
@@ -341,7 +1416,19 @@
    "stipendText": "₹25,000 per month",
    "title": "Graduate Media Internship Policy 2020",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Media and Communication"
+   ],
+   "degrees": [
+    "Diploma"
+   ],
+   "taggingConfidence": "high",
+   "deadline": "2019-01-13",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -360,14 +1447,26 @@
     "PG",
     "Research"
    ],
-   "locationText": "",
+   "locationText": "India",
    "paid": false,
    "sourceName": "workforindia.niti.gov.in",
    "sourceUrl": "https://workforindia.niti.gov.in/internadmin/InternshipEntry/homepage.aspx",
    "stipendText": "",
    "title": "NITI Aayog Internship Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Mumbai",
@@ -391,7 +1490,20 @@
    "stipendText": "₹45,000 per month",
    "title": "RBI Research Internship Scheme",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Commerce / Management",
+    "Social Sciences and Humanities"
+   ],
+   "degrees": [
+    "M.A. / M.Com / MBA"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -406,14 +1518,27 @@
    "id": "cci-internship-programme",
    "kind": "Internship",
    "levels": [],
-   "locationText": "",
+   "locationText": "India",
    "paid": false,
    "sourceName": "cci.gov.in",
    "sourceUrl": "https://cci.gov.in/public/index.php/internship",
    "stipendText": "",
    "title": "CCI Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Commerce / Management",
+    "Social Sciences and Humanities"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "deadline": "2026-11-07",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Bengaluru",
@@ -422,7 +1547,7 @@
    "deadlineText": "",
    "descriptionSnippet": "JNCASR's flagship SRFP gives UG/PG students two months of research training under Centre scientists in life science areas such as genetics, microbiology and neurobiology.",
    "durationText": "2 months (April–July)",
-   "eligibilityText": "UG/PG students in Science and related programmes; for Life Sciences: B.Sc. (year 1–2), B.S./B.E./B.Tech., 1st-year M.Sc. or Integrated M.Sc. students",
+   "eligibilityText": "UG/PG students in Science and related programmes; for Life Sciences: B.Sc. (year 1-2), B.S./B.E./B.Tech., 1st-year M.Sc. or Integrated M.Sc. students",
    "field": "Life Sciences / Biology",
    "firstSeenAt": "2026-11-08",
    "id": "jncasr-srfp-life-sciences",
@@ -436,13 +1561,27 @@
    "sourceName": "jncasr.ac.in",
    "sourceUrl": "https://www.jncasr.ac.in/academic/fandeprogrammes/srfp/",
    "stipendText": "₹10,000 per month",
-   "title": "Summer Research Fellowship Programme (SRFP) — Life Sciences",
+   "title": "Summer Research Fellowship Programme (SRFP) - Life Sciences",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Life Sciences / Biology"
+   ],
+   "degrees": [
+    "B.Tech / B.E.",
+    "M.Sc.",
+    "B.Sc."
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
-   "company": "Department of Biotechnology (DBT) — implemented by Regional Centre for Biotechnology (RCB), Faridabad",
+   "company": "Department of Biotechnology (DBT) - implemented by Regional Centre for Biotechnology (RCB), Faridabad",
    "country": "India",
    "deadlineText": "",
    "descriptionSnippet": "DBT's BITP offers six-month full-time industrial training in bioengineering and biomanufacturing, with hands-on work on live projects under expert mentorship.",
@@ -463,7 +1602,22 @@
    "stipendText": "Rs. 10,000 per month (DBT share) plus minimum Rs. 12,300 per month (company share)",
    "title": "DBT Biotech Industrial Training Programme (BITP) 2026-27",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Biotechnology"
+   ],
+   "degrees": [
+    "M.Tech",
+    "B.Tech / B.E.",
+    "M.Sc.",
+    "M.A. / M.Com / MBA"
+   ],
+   "taggingConfidence": "high",
+   "deadline": "2026-06-08",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Coimbatore",
@@ -488,7 +1642,21 @@
    "stipendText": "",
    "title": "Student Internship / Project Work at ICFRE-IFGTB",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Forestry",
+    "Life Sciences / Biology"
+   ],
+   "degrees": [
+    "B.Tech / B.E.",
+    "M.Sc."
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -498,7 +1666,7 @@
    "descriptionSnippet": "FSSAI Internship Scheme offers learning opportunities in Foods and Nutrition through live projects of 1 to 6 months, via a mutually beneficial industry-academia association.",
    "durationText": "1 to 6 months",
    "eligibilityText": "Students pursuing a full-time Graduate/Post Graduate Degree or higher degree from a recognised institute within India or abroad",
-   "field": "Food Technology",
+   "field": "Data Science / AI",
    "firstSeenAt": "2026-11-08",
    "id": "fssai-internship-scheme",
    "kind": "Internship",
@@ -507,14 +1675,26 @@
     "PG",
     "Research"
    ],
-   "locationText": "",
+   "locationText": "India",
    "paid": false,
    "sourceName": "sites.fssai.gov.in",
    "sourceUrl": "https://sites.fssai.gov.in/internship/",
    "stipendText": "",
    "title": "FSSAI Internship Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Data Science / AI"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": "2026-10-01",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -524,7 +1704,7 @@
    "descriptionSnippet": "WII trains B.Sc./M.Sc. students in wildlife research under faculty supervision; it offers paid and unpaid internship opportunities depending on experience.",
    "durationText": "",
    "eligibilityText": "Open to students from undergraduate level onwards (B.Sc., M.Sc. etc.); paid internship is only available to students who have completed their Bachelor's or Master's degree",
-   "field": "Veterinary and Animal Sciences",
+   "field": "Forestry",
    "firstSeenAt": "2026-11-08",
    "id": "wii-internship-programme",
    "kind": "Internship",
@@ -532,14 +1712,27 @@
     "UG",
     "PG"
    ],
-   "locationText": "",
+   "locationText": "India",
    "paid": false,
    "sourceName": "wii.gov.in",
    "sourceUrl": "https://wii.gov.in/internships-and-dissertations",
    "stipendText": "",
    "title": "WII Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Forestry"
+   ],
+   "degrees": [
+    "M.Sc.",
+    "B.Sc."
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -554,14 +1747,26 @@
    "id": "ncess-internship-training-dissertation",
    "kind": "Internship",
    "levels": [],
-   "locationText": "",
+   "locationText": "India",
    "paid": false,
    "sourceName": "ncess.gov.in",
    "sourceUrl": "https://www.ncess.gov.in/images/Recruitment/Dissertation_Sept2024.pdf",
    "stipendText": "",
    "title": "NCESS Internship / Training / Dissertation Programme",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Earth Sciences / Geology"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": "2024-05-09",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Ahmedabad",
@@ -585,9 +1790,22 @@
    "sourceName": "prl.res.in",
    "sourceUrl": "https://www.prl.res.in/prl-eng/opportunities/summer_internship_program",
    "stipendText": "",
-   "title": "PRL Summer Internship Programme — Geology / Geophysics",
+   "title": "PRL Summer Internship Programme - Geology / Geophysics",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Earth Sciences / Geology",
+    "Physics"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": "2026-07-10",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Bengaluru",
@@ -596,7 +1814,7 @@
    "deadlineText": "",
    "descriptionSnippet": "JNCASR SRFP offers two months of research training in chemical sciences, including organic, physical and inorganic chemistry, nanomaterials and medicinal chemistry.",
    "durationText": "2 months (April–July)",
-   "eligibilityText": "For Chemical Sciences: students in BS-MS/Integrated M.Sc. (years 1–4) or 1st year of M.Sc./M.E./M.Tech.",
+   "eligibilityText": "For Chemical Sciences: students in BS-MS/Integrated M.Sc. (years 1-4) or 1st year of M.Sc./M.E./M.Tech.",
    "field": "Chemistry",
    "firstSeenAt": "2026-11-08",
    "id": "jncasr-srfp-chemistry",
@@ -610,9 +1828,22 @@
    "sourceName": "jncasr.ac.in",
    "sourceUrl": "https://www.jncasr.ac.in/academic/fandeprogrammes/srfp/",
    "stipendText": "₹10,000 per month",
-   "title": "Summer Research Fellowship Programme (SRFP) — Chemical Sciences",
+   "title": "Summer Research Fellowship Programme (SRFP) - Chemical Sciences",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Chemistry"
+   ],
+   "degrees": [
+    "M.Tech",
+    "M.Sc."
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Ahmedabad",
@@ -638,7 +1869,19 @@
    "stipendText": "",
    "title": "PRL Summer Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Physics"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": "2026-07-10",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -656,14 +1899,27 @@
     "UG",
     "PG"
    ],
-   "locationText": "",
+   "locationText": "India",
    "paid": true,
    "sourceName": "mathweb.tifr.res.in",
    "sourceUrl": "https://mathweb.tifr.res.in/vsrp.html",
    "stipendText": "Honorarium of Rs. 9,000",
-   "title": "Visiting Students Research Programme (VSRP) — Mathematics",
+   "title": "Visiting Students Research Programme (VSRP) - Mathematics",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Mathematics and Statistics"
+   ],
+   "degrees": [
+    "B.Tech / B.E.",
+    "B.Sc."
+   ],
+   "taggingConfidence": "high",
+   "deadline": "2026-03-26",
+   "deadlineType": "fixed",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "id": "arbeitnow-talent-acquisition-intern-trawa",
@@ -673,18 +1929,33 @@
    "city": "Berlin HQ",
    "locationText": "Berlin HQ",
    "workMode": "",
-   "field": "Commerce / Management",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Computer Science / IT",
+    "Engineering",
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "B.Sc."
+   ],
+   "taggingConfidence": "low",
    "kind": "Internship",
    "paid": false,
    "stipendText": "",
    "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
    "eligibilityText": "",
    "levels": [],
-   "descriptionSnippet": "Talent Acquisition InternDeine Mission bei trawaBei trawa sind wir überzeugt: Die Energiewende beginnt bei den Menschen, die sie möglich machen. Du willst leistungsstarke Teams mit aufbauen und Recruiting von Grund auf so lernen, dass es wi",
+   "descriptionSnippet": "Talent Acquisition Intern Deine Mission bei trawa Bei trawa sind wir überzeugt: Die Energiewende beginnt bei den Menschen, die sie möglich machen. Du willst leistungsstarke Teams mit aufbauen und Recruiting von Grund auf so lernen, dass es…",
    "durationText": "",
    "sourceName": "arbeitnow.com",
    "sourceUrl": "https://www.arbeitnow.com/jobs/companies/trawa/talent-acquisition-intern-berlin-417738",
+   "sourceType": "aggregator",
+   "status": "active",
    "firstSeenAt": "2026-11-08",
+   "lastSeenAt": "2026-11-08",
    "lastVerified": "2026-11-08"
   },
   {
@@ -695,18 +1966,34 @@
    "city": "Berlin",
    "locationText": "Berlin",
    "workMode": "",
-   "field": "Commerce / Management",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Computer Science / IT",
+    "Engineering",
+    "Commerce / Management",
+    "Social Sciences and Humanities"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
    "kind": "Internship",
    "paid": false,
    "stipendText": "",
    "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
    "eligibilityText": "",
    "levels": [],
-   "descriptionSnippet": "Venture Development Intern (m/f/d) – FastLeap PartnersInternship, 3–6 months · Full-timeAbout FastLeap PartnersFastLeap Partners is a company builder and investment firm headquartered in Zug, Switzerland, with portfolio companies mainly ope",
+   "descriptionSnippet": "Venture Development Intern (m/f/d) - FastLeap Partners Internship, 3-6 months · Full-time About FastLeap Partners FastLeap Partners is a company builder and investment firm headquartered in Zug, Switzerland, with portfolio companies mainly…",
    "durationText": "",
    "sourceName": "arbeitnow.com",
    "sourceUrl": "https://www.arbeitnow.com/jobs/companies/fastleap-partners/venture-development-intern-berlin-343329",
+   "sourceType": "aggregator",
+   "status": "active",
    "firstSeenAt": "2026-11-08",
+   "lastSeenAt": "2026-11-08",
    "lastVerified": "2026-11-08"
   },
   {
@@ -717,18 +2004,31 @@
    "city": "Berlin",
    "locationText": "Berlin",
    "workMode": "",
-   "field": "Commerce / Management",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
    "kind": "Internship",
    "paid": false,
    "stipendText": "",
    "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
    "eligibilityText": "",
    "levels": [],
-   "descriptionSnippet": "At Upvest, we are on a mission to make investing as easy as spending money. Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. U",
+   "descriptionSnippet": "At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning…",
    "durationText": "",
    "sourceName": "arbeitnow.com",
    "sourceUrl": "https://www.arbeitnow.com/jobs/companies/upvest/brokerage-operations-intern-berlin-393130",
+   "sourceType": "aggregator",
+   "status": "active",
    "firstSeenAt": "2026-11-08",
+   "lastSeenAt": "2026-11-08",
    "lastVerified": "2026-11-08"
   },
   {
@@ -751,6 +2051,113 @@
    "sourceName": "arbeitnow.com",
    "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/ben/marketing-intern-london-334122",
    "firstSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08",
+   "status": "active"
+  },
+  {
+   "id": "biotecnika-research-trainee-job-at-colgate-palmolive-apply-now",
+   "title": "Research Trainee Job at Colgate-Palmolive | Apply Now",
+   "company": "",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Life Sciences / Biology",
+   "fields": [
+    "Life Sciences / Biology"
+   ],
+   "degrees": [
+    "M.Sc.",
+    "M.A. / M.Com / MBA"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Research Trainee - Microbiology at Colgate-Palmolive Company, Mumbai, Maharashtra, India Colgate-Palmolive Company is hiring for a Colgate research trainee position in Microbiology at its India Global technology center in Mumbai…",
+   "durationText": "",
+   "sourceName": "www.biotecnika.org",
+   "sourceUrl": "https://www.biotecnika.org/2026/11/colgate-research-trainee-microbiology-mumbai/",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-06",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "biotecnika-biotecnika-times-05-11-2026-freshers-jobs-at-usv-l-t-parexel-isro-inte",
+   "title": "BioTecNika Times-05-11-2026: Freshers Jobs at USV, L&T, Parexel, ISRO Internship & Many More",
+   "company": "",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Biotechnology",
+   "fields": [
+    "Biotechnology",
+    "Veterinary and Animal Sciences"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": "2026-11-05",
+   "deadlineType": "fixed",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "A concise Biotecnika newspaper update for {{name}}. BioTecNika Times | Online | Bangalore BioTecNika Times For bioscience professionals and biotech industry updates Here are the latest posts from BioTecNika Times. We kept this edition…",
+   "durationText": "",
+   "sourceName": "www.biotecnika.org",
+   "sourceUrl": "https://www.biotecnika.org/2026/11/biotecnika-times-05-11-2026/",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-05",
+   "lastSeenAt": "2026-11-08",
+   "lastVerified": "2026-11-08"
+  },
+  {
+   "id": "biotecnika-freshers-job-at-darukaa-earth-apply-now",
+   "title": "Freshers Job at Darukaa. earth | Apply Now",
+   "company": "",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Forestry",
+   "fields": [
+    "Forestry",
+    "Environmental Science",
+    "Life Sciences / Biology"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Field Ecology & Bioacoustics Intern at Darukaa.Earth, Pune Darukaa.Earth is hiring a Field Ecology & Bioacoustics Intern in Pune. This full-time paid internship runs 3-6 months and suits candidates studying Ecology, Wildlife Biology…",
+   "durationText": "",
+   "sourceName": "www.biotecnika.org",
+   "sourceUrl": "https://www.biotecnika.org/2026/11/darukaa-earth-internship-pune/",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-05",
+   "lastSeenAt": "2026-11-08",
    "lastVerified": "2026-11-08"
   },
   {
@@ -762,17 +2169,29 @@
    "locationText": "Remote",
    "workMode": "Remote",
    "field": "Commerce / Management",
+   "fields": [
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "B.Sc."
+   ],
+   "taggingConfidence": "low",
    "kind": "Internship",
    "paid": false,
    "stipendText": "",
    "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
    "eligibilityText": "",
    "levels": [],
-   "descriptionSnippet": "Deine RolleDie Steuerberatung erlebt eine Konsolidierungswelle: Tausende HÃ¤user suchen in den nÃ¤chsten Jahren eine Nachfolge, und nur wenige KÃ¤ufer prÃ¼fen sie mit derselben Sorgfalt wie ein professionelles Transaktionsteam. Hier lernst ",
+   "descriptionSnippet": "Deine Rolle Die Steuerberatung erlebt eine Konsolidierungswelle: Tausende HÃ¤user suchen in den nÃ¤chsten Jahren eine Nachfolge, und nur wenige KÃ¤ufer prÃ1⁄4fen sie mit derselben Sorgfalt wie ein professionelles Transaktionsteam. Hier…",
    "durationText": "",
    "sourceName": "remoteok.com",
    "sourceUrl": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
+   "sourceType": "aggregator",
+   "status": "active",
    "firstSeenAt": "2026-11-03",
+   "lastSeenAt": "2026-11-08",
    "lastVerified": "2026-11-08"
   },
   {
@@ -799,7 +2218,19 @@
    "stipendText": "₹10,000 / month",
    "title": "MoEFCC Internship Scheme 2026",
    "workMode": "On-site",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": "2026-12-31",
+   "deadlineType": "fixed",
+   "sourceType": "aggregator",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -825,7 +2256,19 @@
    "stipendText": "",
    "title": "National Renewable Energy Internship (NREI) Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science"
+   ],
+   "degrees": [
+    "Ph.D / Research"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -848,9 +2291,22 @@
    "sourceName": "konnifel.com",
    "sourceUrl": "https://konnifel.com/professor/public_internship/dEFwdThmK0V1SlVvQ1ZBWWI1QkVUUT09/VDMxTmdrcDdHTTlxTHhpcmNqN1gzUT09",
    "stipendText": "",
-   "title": "Environmental Science Internship — Soil Testing & Agronomic Analysis",
+   "title": "Environmental Science Internship - Soil Testing & Agronomic Analysis",
    "workMode": "",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Agriculture",
+    "Environmental Science"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "aggregator",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -875,7 +2331,19 @@
    "stipendText": "",
    "title": "Internship at WWF-India",
    "workMode": "",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -900,7 +2368,21 @@
    "stipendText": "",
    "title": "GEER Foundation Internship 2026",
    "workMode": "",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science",
+    "Education"
+   ],
+   "degrees": [
+    "B.Tech / B.E.",
+    "M.Sc."
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "aggregator",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -923,9 +2405,21 @@
    "sourceName": "ici.earth",
    "sourceUrl": "https://ici.earth/careers/research-intern-sustainability-and-climate-change/",
    "stipendText": "",
-   "title": "Research Intern – Sustainability and Climate Change",
+   "title": "Research Intern - Sustainability and Climate Change",
    "workMode": "Remote",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -945,9 +2439,21 @@
    "sourceName": "impactpool.org",
    "sourceUrl": "https://www.impactpool.org/jobs/717555",
    "stipendText": "",
-   "title": "Internship — Climate Change",
+   "title": "Internship - Climate Change",
    "workMode": "",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "aggregator",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Jaipur",
@@ -972,7 +2478,20 @@
    "stipendText": "",
    "title": "Environmental Impact Assessment & Environmental Engineering Internship",
    "workMode": "On-site",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science",
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "",
@@ -997,7 +2516,20 @@
    "stipendText": "",
    "title": "Remote Internship: Environmental Impact Assessment & Environmental Engineering",
    "workMode": "Remote",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science",
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   },
   {
    "city": "Bengaluru",
@@ -1017,9 +2549,21 @@
    "sourceName": "cstep.in",
    "sourceUrl": "https://cstep.in/job/intern/",
    "stipendText": "",
-   "title": "Intern — Industrial Decarbonisation Research",
+   "title": "Intern - Industrial Decarbonisation Research",
    "workMode": "",
-   "lastVerified": "2026-11-05"
+   "lastVerified": "2026-11-08",
+   "fields": [
+    "Environmental Science"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "sourceType": "official",
+   "status": "active",
+   "lastSeenAt": "2026-11-08"
   }
  ]
 }
