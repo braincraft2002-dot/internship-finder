@@ -1,22 +1,22 @@
 {
- "generatedAt": "2026-11-08T15:15:12+05:30",
+ "generatedAt": "2026-11-09T12:32:56+05:30",
  "listings": [
   {
-   "id": "arbeitnow-2027-summer-intern-ms-phd-machine-learning-simulation-realism-waymo",
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
-   "company": "Waymo",
+   "id": "arbeitnow-category-management-future-leaders-graduate-program-teampicnic",
+   "title": "Category Management - Future Leaders Graduate Program",
+   "company": "Teampicnic",
    "country": "Worldwide",
-   "city": "London",
-   "locationText": "London",
+   "city": "Düsseldorf, North Rhine-Westphalia",
+   "locationText": "Düsseldorf, North Rhine-Westphalia",
    "workMode": "",
-   "field": "Computer Science / IT",
+   "field": "Commerce / Management",
    "fields": [
-    "Computer Science / IT",
-    "Data Science / AI",
-    "Engineering"
+    "Commerce / Management",
+    "Social Sciences and Humanities"
    ],
    "degrees": [
-    "Ph.D / Research"
+    "M.Sc.",
+    "B.Sc."
    ],
    "taggingConfidence": "low",
    "kind": "Internship",
@@ -24,18 +24,305 @@
    "stipendText": "",
    "deadlineText": "",
    "deadline": null,
-   "deadlineType": "recurring",
+   "deadlineType": "rolling",
    "eligibilityText": "",
    "levels": [],
-   "descriptionSnippet": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo…",
+   "descriptionSnippet": "<h2 style=\"text-align: justify;\"><strong>Kurz und knapp</strong></h2> <p>Du hast deinen Master frisch in der Tasche und willst im Commercial-Team bei Picnic durchstarten? Unser 1-jähriges Trainee Programm ohne Rotation&nbsp;ist kein…",
    "durationText": "",
    "sourceName": "arbeitnow.com",
-   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/waymo/2027-summer-intern-ms-phd-machine-learning-simulation-realism-london-169277",
+   "sourceUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/category-management-future-leaders-graduate-program-dusseldorf-north-rhine-westphalia-369895",
    "sourceType": "aggregator",
    "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
+   "firstSeenAt": "2026-11-09T12:32:56+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "arbeitnow-seller-onboarding-and-support-intern-backmarket",
+   "title": "Seller Onboarding and Support Intern",
+   "company": "Backmarket",
+   "country": "Worldwide",
+   "city": "Paris",
+   "locationText": "Paris",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Computer Science / IT",
+    "Engineering",
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Hi, we're Back Market. We're here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/seller-onboarding-and-support-intern-paris-277567",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-09T12:32:56+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "arbeitnow-operations-data-automation-apprentice-backmarket",
+   "title": "Operations Data & Automation Apprentice",
+   "company": "Backmarket",
+   "country": "Worldwide",
+   "city": "Bordeaux",
+   "locationText": "Bordeaux",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Computer Science / IT"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Hi, we're Back Market. We're here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/operations-data-automation-apprentice-bordeaux-84574",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-09T12:32:56+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "arbeitnow-brand-marketing-crm-engagement-intern-backmarket",
+   "title": "Brand & Marketing CRM Engagement Intern",
+   "company": "Backmarket",
+   "country": "Worldwide",
+   "city": "Paris",
+   "locationText": "Paris",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Mathematics and Statistics",
+    "Computer Science / IT",
+    "Engineering",
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Hi, we're Back Market. We're here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/brand-marketing-crm-engagement-intern-paris-487280",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-09T12:32:56+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "arbeitnow-product-manager-apprentice-checkout-backmarket",
+   "title": "Product Manager Apprentice, Checkout",
+   "company": "Backmarket",
+   "country": "Worldwide",
+   "city": "Paris",
+   "locationText": "Paris",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Computer Science / IT",
+    "Engineering",
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Hi, we're Back Market. We're here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/product-manager-apprentice-checkout-paris-181120",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-09T12:32:56+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "arbeitnow-user-research-ux-apprentice-backmarket",
+   "title": "User Research UX Apprentice",
+   "company": "Backmarket",
+   "country": "Worldwide",
+   "city": "Bordeaux",
+   "locationText": "Bordeaux",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Computer Science / IT",
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Hi, we're Back Market. We're here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.fr/jobs/companies/backmarket/user-research-ux-apprentice-bordeaux-187824",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-09T12:32:56+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "arbeitnow-alternance-site-reliability-engineer-f-h-horizontradingsolutions",
+   "title": "Alternance - Site Reliability Engineer (F/H)",
+   "company": "Horizontradingsolutions",
+   "country": "Worldwide",
+   "city": "Nantes, Loire-Atlantique",
+   "locationText": "Nantes, Loire-Atlantique",
+   "workMode": "",
+   "field": "Data Science / AI",
+   "fields": [
+    "Data Science / AI",
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<h1>Site Reliability Engineer (Apprentice) - France</h1> <h2>Horizon Trading Solutions ?</h2> <ul> <li> <p>Une Fintech spécialisée dans la conception d'une plateforme facilitant les différentes activités de trading sur les marchés…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/alternance-site-reliability-engineer-f-h-nantes-loire-atlantique-65461",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-09T12:32:56+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "arbeitnow-entrepreneur-intern-seesicht-gmbh",
+   "title": "Entrepreneur Intern",
+   "company": "SeeSicht Gmbh",
+   "country": "Worldwide",
+   "city": "Zürich",
+   "locationText": "Zürich",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "About SeeSicht Gmbh SeeSicht is a small family office of AI-first companies. We build companies that are profitable today and keep them for the long term - not a venture builder chasing funding rounds. Every project is funded 100% by me or…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.ch/jobs/companies/seesicht-gmbh/entrepreneur-intern-zurich-164590",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-09T12:32:56+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "biotecnika-paid-biotechnology-internship-at-actrec-apply-now",
+   "title": "Paid Biotechnology Internship at ACTREC | Apply Now",
+   "company": "",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Biotechnology",
+   "fields": [
+    "Biotechnology"
+   ],
+   "degrees": [
+    "M.Sc."
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": "2026-11-15",
+   "deadlineType": "fixed",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Paid Biotechnology Internship at ACTREC The ACTREC internship 2026 at Tata Memorial Centre invites applications for one two-month student internship under the Scientific Social Responsibility (SSR) initiative of ANRF. The essential…",
+   "durationText": "",
+   "sourceName": "www.biotecnika.org",
+   "sourceUrl": "https://www.biotecnika.org/2026/11/actrec-internship-2026-biotechnology/",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-09",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "id": "national-scholarship-portal-nsp-students",
@@ -68,8 +355,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "id": "national-scholarship-portal-nsp-apply-for-scholarship",
@@ -102,8 +389,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "id": "national-scholarship-portal-nsp-scholarship-eligibility",
@@ -136,8 +423,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "id": "ugc-ugc-fellowship-and-research-grants",
@@ -170,8 +457,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "id": "ugc-web-portal-for-fellowship-scholarship-legacy-cases",
@@ -204,8 +491,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "id": "icmr-national-health-research-programme",
@@ -236,6 +523,641 @@
    "sourceName": "www.icmr.gov.in",
    "sourceUrl": "https://www.icmr.gov.in/national-health-research-programme",
    "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-indian-army-internship-cyber-defence-engineering-cell",
+   "title": "Indian Army Internship Cyber defence & engineering cell",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/indianarmy",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-tulip-smart-cities-internship-ministry-of-housing-urban-affairs",
+   "title": "TULIP Smart Cities Internship Ministry of Housing & Urban Affairs",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/tulip",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-cpwd-internship-new-central-public-works-department-mohua",
+   "title": "CPWD Internship New Central Public Works Department - MoHUA",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/cpwd",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-national-highways-authority-of-india-internship-nhai-morth-highways-in",
+   "title": "National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/nhai",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-panchayati-raj-rural-internship-2-5-lakh-gram-panchayats-jal-jeevan",
+   "title": "Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/rural",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-amrut-2-0-water-mission-internship-new-mohua-urban-water-sanitation-mi",
+   "title": "AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & Sanitation Mission",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/amrut",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-c-dac-dashboard-internships-via-c-dac-nielit-ernet",
+   "title": "C-DAC Dashboard Internships via C-DAC, NIELIT & ERNET",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/cdac",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-morth-road-transport-internship-road-safety-vahan-green-mobility",
+   "title": "MoRTH Road Transport Internship Road safety, VAHAN & green mobility",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/morth",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-land-ports-authority-internship-integrated-check-posts-border-trade",
+   "title": "Land Ports Authority Internship Integrated Check Posts & border trade",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/lpai",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-government-of-maharashtra-internship-higher-technical-education-dept-h",
+   "title": "Government of Maharashtra Internship Higher & Technical Education Dept (HTED)",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Engineering",
+   "fields": [
+    "Engineering"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
+   "levels": [],
+   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/maharashtra",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-internship-report-2025-26-national-placement-state-metrics",
+   "title": "Internship Report 2025-26 National placement & state metrics",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/report/report_final.pdf",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-selected-interns-meet-who-made-it-this-season",
+   "title": "Selected Interns Meet who made it this season",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/selected-interns",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-impact-reports-placement-data-state-by-state",
+   "title": "Impact Reports Placement data, state by state",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/reports",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-amrutam-2-0-pin-well-login-login-well-management-web-admin-portal",
+   "title": "AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/well-management/web/admin-login",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-aicte-super-admin-admin-national-governance-employer-kyc-desk",
+   "title": "AICTE Super Admin Admin National Governance & Employer KYC Desk",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/super-admin/login",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-state-admin-desk-nodal-state-nodal-directorate-approvals",
+   "title": "State Admin Desk Nodal State Nodal Directorate & Approvals",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/dashboards/state-admin/login",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "aicte-internship-portal-media-stories-films-photos-and-press",
+   "title": "Media & Stories Films, photos and press",
+   "company": "AICTE",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Earth Sciences / Geology",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "high",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
+   "levels": [],
+   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
+   "durationText": "",
+   "sourceName": "internship.aicte-india.org",
+   "sourceUrl": "https://internship.aicte-india.org/media",
+   "sourceType": "official",
+   "status": "active",
+   "firstSeenAt": "2026-11-08T15:15:12+05:30",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
+  },
+  {
+   "id": "arbeitnow-2027-summer-intern-ms-phd-machine-learning-simulation-realism-waymo",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+   "company": "Waymo",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Computer Science / IT",
+   "fields": [
+    "Computer Science / IT",
+    "Data Science / AI",
+    "Engineering"
+   ],
+   "degrees": [
+    "Ph.D / Research"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "recurring",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/waymo/2027-summer-intern-ms-phd-machine-learning-simulation-realism-london-169277",
+   "sourceType": "aggregator",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
    "lastSeenAt": "2026-11-08",
@@ -310,605 +1232,6 @@
    "lastVerified": "2026-11-08"
   },
   {
-   "id": "aicte-internship-portal-indian-army-internship-cyber-defence-engineering-cell",
-   "title": "Indian Army Internship Cyber defence & engineering cell",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/indianarmy",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-tulip-smart-cities-internship-ministry-of-housing-urban-affairs",
-   "title": "TULIP Smart Cities Internship Ministry of Housing & Urban Affairs",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/tulip",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-cpwd-internship-new-central-public-works-department-mohua",
-   "title": "CPWD Internship New Central Public Works Department - MoHUA",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/cpwd",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-national-highways-authority-of-india-internship-nhai-morth-highways-in",
-   "title": "National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/nhai",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-panchayati-raj-rural-internship-2-5-lakh-gram-panchayats-jal-jeevan",
-   "title": "Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/rural",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-amrut-2-0-water-mission-internship-new-mohua-urban-water-sanitation-mi",
-   "title": "AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & Sanitation Mission",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/amrut",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-c-dac-dashboard-internships-via-c-dac-nielit-ernet",
-   "title": "C-DAC Dashboard Internships via C-DAC, NIELIT & ERNET",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/cdac",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-morth-road-transport-internship-road-safety-vahan-green-mobility",
-   "title": "MoRTH Road Transport Internship Road safety, VAHAN & green mobility",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/morth",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-land-ports-authority-internship-integrated-check-posts-border-trade",
-   "title": "Land Ports Authority Internship Integrated Check Posts & border trade",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/lpai",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-government-of-maharashtra-internship-higher-technical-education-dept-h",
-   "title": "Government of Maharashtra Internship Higher & Technical Education Dept (HTED)",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Engineering",
-   "fields": [
-    "Engineering"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI - MoRTH Highways & Infrastructure Panchayati Raj & Rural Internship 2.5 Lakh Gram Panchayats & Jal Jeevan AMRUT 2.0 Water Mission Internship New MoHUA Urban Water & ",
-   "levels": [],
-   "descriptionSnippet": "Indian Army Internship Cyber defence & engineering cell TULIP Smart Cities Internship Ministry of Housing & Urban Affairs CPWD Internship New Central Public Works Department - MoHUA National Highways Authority of India Internship NHAI -…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/maharashtra",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-internship-report-2025-26-national-placement-state-metrics",
-   "title": "Internship Report 2025-26 National placement & state metrics",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Environmental Science",
-   "fields": [
-    "Environmental Science",
-    "Earth Sciences / Geology",
-    "Commerce / Management",
-    "Media and Communication"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
-   "levels": [],
-   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/report/report_final.pdf",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-selected-interns-meet-who-made-it-this-season",
-   "title": "Selected Interns Meet who made it this season",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Environmental Science",
-   "fields": [
-    "Environmental Science",
-    "Earth Sciences / Geology",
-    "Commerce / Management",
-    "Media and Communication"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
-   "levels": [],
-   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/selected-interns",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-impact-reports-placement-data-state-by-state",
-   "title": "Impact Reports Placement data, state by state",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Environmental Science",
-   "fields": [
-    "Environmental Science",
-    "Earth Sciences / Geology",
-    "Commerce / Management",
-    "Media and Communication"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
-   "levels": [],
-   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/reports",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-amrutam-2-0-pin-well-login-login-well-management-web-admin-portal",
-   "title": "AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Environmental Science",
-   "fields": [
-    "Environmental Science",
-    "Earth Sciences / Geology",
-    "Commerce / Management",
-    "Media and Communication"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
-   "levels": [],
-   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/well-management/web/admin-login",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-aicte-super-admin-admin-national-governance-employer-kyc-desk",
-   "title": "AICTE Super Admin Admin National Governance & Employer KYC Desk",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Environmental Science",
-   "fields": [
-    "Environmental Science",
-    "Earth Sciences / Geology",
-    "Commerce / Management",
-    "Media and Communication"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
-   "levels": [],
-   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/super-admin/login",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-state-admin-desk-nodal-state-nodal-directorate-approvals",
-   "title": "State Admin Desk Nodal State Nodal Directorate & Approvals",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Environmental Science",
-   "fields": [
-    "Environmental Science",
-    "Earth Sciences / Geology",
-    "Commerce / Management",
-    "Media and Communication"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
-   "levels": [],
-   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/dashboards/state-admin/login",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "aicte-internship-portal-media-stories-films-photos-and-press",
-   "title": "Media & Stories Films, photos and press",
-   "company": "AICTE",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Environmental Science",
-   "fields": [
-    "Environmental Science",
-    "Earth Sciences / Geology",
-    "Commerce / Management",
-    "Media and Communication"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "high",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": null,
-   "deadlineType": "rolling",
-   "eligibilityText": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM 2.0 Pin Well Login Login Well Management Web Admin Portal AICTE Super Admin Admin National Governance & Employer KYC Desk State Admin Desk Nodal State Nodal Dir",
-   "levels": [],
-   "descriptionSnippet": "Internship Report 2025-26 National placement & state metrics Selected Interns Meet who made it this season Impact Reports Placement data, state by state Amrit Sarovar Geotagged Submissions Map Interactive GIS Water Conservation Map AMRUTAM…",
-   "durationText": "",
-   "sourceName": "internship.aicte-india.org",
-   "sourceUrl": "https://internship.aicte-india.org/media",
-   "sourceType": "official",
-   "status": "active",
-   "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
    "city": "New Delhi",
    "company": "Ministry of Electronics and Information Technology (MeitY)",
    "country": "India",
@@ -931,7 +1254,7 @@
    "stipendText": "Rs.10,000/- per month",
    "title": "Digital India Internship Scheme",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Engineering"
    ],
@@ -946,7 +1269,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -968,7 +1291,7 @@
    "stipendText": "",
    "title": "Digital India Internship Scheme for NIC",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "All"
    ],
@@ -980,7 +1303,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1005,7 +1328,7 @@
    "stipendText": "",
    "title": "IndiaAI Fellowship Programme (FutureSkills)",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "All"
    ],
@@ -1018,7 +1341,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Chennai",
@@ -1042,7 +1365,7 @@
    "stipendText": "Rs 40,000 to Rs 60,000 a month",
    "title": "Post-Baccalaureate Fellowship in Data Science and AI",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Data Science / AI"
    ],
@@ -1054,7 +1377,7 @@
    "deadlineType": "recurring",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1080,7 +1403,7 @@
    "stipendText": "",
    "title": "DoS/ISRO Internship & Student Project Trainee Schemes",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "All"
    ],
@@ -1092,7 +1415,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Bengaluru",
@@ -1117,7 +1440,7 @@
    "stipendText": "",
    "title": "DRDO MTRDC Paid Internship Scheme 2026-27",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Engineering"
    ],
@@ -1129,7 +1452,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1153,7 +1476,7 @@
    "stipendText": "",
    "title": "Student READY Programme (Rural Entrepreneurship Awareness Development Yojana)",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Agriculture"
    ],
@@ -1165,7 +1488,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1190,7 +1513,7 @@
    "stipendText": "18000 per month (as stated in the SIS 2023-24 notification)",
    "title": "NABARD Student Internship Scheme (SIS)",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Agriculture",
     "Commerce / Management",
@@ -1204,7 +1527,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1229,7 +1552,7 @@
    "stipendText": "",
    "title": "Student Internship Training Program",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "All"
    ],
@@ -1244,7 +1567,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Jodhpur",
@@ -1269,7 +1592,7 @@
    "stipendText": "",
    "title": "Internship / Dissertation Training",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Life Sciences / Biology",
     "Biotechnology",
@@ -1284,7 +1607,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1308,7 +1631,7 @@
    "stipendText": "",
    "title": "Short-Term Studentship (STS)",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Medicine and Health Sciences"
    ],
@@ -1320,7 +1643,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "New Delhi",
@@ -1346,7 +1669,7 @@
    "stipendText": "",
    "title": "Voluntary Internship Programme for Law Students",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Law"
    ],
@@ -1358,7 +1681,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1380,7 +1703,7 @@
    "stipendText": "",
    "title": "IKS Institutional Internship (BGSamvahan Karyakram-6)",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "All"
    ],
@@ -1392,7 +1715,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "New Delhi",
@@ -1416,7 +1739,7 @@
    "stipendText": "₹25,000 per month",
    "title": "Graduate Media Internship Policy 2020",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Media and Communication"
    ],
@@ -1428,7 +1751,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1454,7 +1777,7 @@
    "stipendText": "",
    "title": "NITI Aayog Internship Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "All"
    ],
@@ -1466,7 +1789,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Mumbai",
@@ -1490,7 +1813,7 @@
    "stipendText": "₹45,000 per month",
    "title": "RBI Research Internship Scheme",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Commerce / Management",
     "Social Sciences and Humanities"
@@ -1503,7 +1826,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1525,7 +1848,7 @@
    "stipendText": "",
    "title": "CCI Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Commerce / Management",
     "Social Sciences and Humanities"
@@ -1534,11 +1857,11 @@
     "All"
    ],
    "taggingConfidence": "high",
-   "deadline": "2026-11-07",
+   "deadline": "2026-11-08",
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Bengaluru",
@@ -1563,7 +1886,7 @@
    "stipendText": "₹10,000 per month",
    "title": "Summer Research Fellowship Programme (SRFP) - Life Sciences",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Life Sciences / Biology"
    ],
@@ -1577,7 +1900,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1602,7 +1925,7 @@
    "stipendText": "Rs. 10,000 per month (DBT share) plus minimum Rs. 12,300 per month (company share)",
    "title": "DBT Biotech Industrial Training Programme (BITP) 2026-27",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Biotechnology"
    ],
@@ -1617,7 +1940,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Coimbatore",
@@ -1642,7 +1965,7 @@
    "stipendText": "",
    "title": "Student Internship / Project Work at ICFRE-IFGTB",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Forestry",
     "Life Sciences / Biology"
@@ -1656,7 +1979,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1682,7 +2005,7 @@
    "stipendText": "",
    "title": "FSSAI Internship Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Data Science / AI"
    ],
@@ -1694,7 +2017,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1719,7 +2042,7 @@
    "stipendText": "",
    "title": "WII Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Forestry"
    ],
@@ -1732,7 +2055,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1754,7 +2077,7 @@
    "stipendText": "",
    "title": "NCESS Internship / Training / Dissertation Programme",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Earth Sciences / Geology"
    ],
@@ -1766,7 +2089,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Ahmedabad",
@@ -1792,7 +2115,7 @@
    "stipendText": "",
    "title": "PRL Summer Internship Programme - Geology / Geophysics",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Earth Sciences / Geology",
     "Physics"
@@ -1805,7 +2128,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Bengaluru",
@@ -1830,7 +2153,7 @@
    "stipendText": "₹10,000 per month",
    "title": "Summer Research Fellowship Programme (SRFP) - Chemical Sciences",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Chemistry"
    ],
@@ -1843,7 +2166,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Ahmedabad",
@@ -1869,7 +2192,7 @@
    "stipendText": "",
    "title": "PRL Summer Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Physics"
    ],
@@ -1881,7 +2204,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -1906,7 +2229,7 @@
    "stipendText": "Honorarium of Rs. 9,000",
    "title": "Visiting Students Research Programme (VSRP) - Mathematics",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Mathematics and Statistics"
    ],
@@ -1915,11 +2238,45 @@
     "B.Sc."
    ],
    "taggingConfidence": "high",
-   "deadline": "2026-03-26",
-   "deadlineType": "fixed",
+   "deadline": null,
+   "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
+  },
+  {
+   "id": "biotecnika-fast-sf-2027-focus-area-science-technology-summer-fellowship-iasc-insa",
+   "title": "FAST-SF 2027 - Focus Area Science Technology Summer Fellowship (IASc / INSA / NASI) for Students & Teachers | Apply by 30 Nov 2026",
+   "company": "",
+   "country": "India",
+   "city": "",
+   "locationText": "India",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": "2026-11-30",
+   "deadlineType": "fixed",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "FAST-SF 2027 Summer Fellowship by IAS, INSA and NASI for Students and Teachers in Selected States The Indian Academy of Sciences, Indian National Science Academy and The National Academy of Sciences, India have announced the FAST SF 2027…",
+   "durationText": "",
+   "sourceName": "www.biotecnika.org",
+   "sourceUrl": "https://www.biotecnika.org/2026/11/fast-sf-2027-summer-fellowship-2/",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-08",
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "id": "arbeitnow-talent-acquisition-intern-trawa",
@@ -2086,43 +2443,8 @@
    "sourceType": "aggregator",
    "status": "active",
    "firstSeenAt": "2026-11-06",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
-  },
-  {
-   "id": "biotecnika-biotecnika-times-05-11-2026-freshers-jobs-at-usv-l-t-parexel-isro-inte",
-   "title": "BioTecNika Times-05-11-2026: Freshers Jobs at USV, L&T, Parexel, ISRO Internship & Many More",
-   "company": "",
-   "country": "India",
-   "city": "",
-   "locationText": "India",
-   "workMode": "",
-   "field": "Biotechnology",
-   "fields": [
-    "Biotechnology",
-    "Veterinary and Animal Sciences"
-   ],
-   "degrees": [
-    "All"
-   ],
-   "taggingConfidence": "low",
-   "kind": "Internship",
-   "paid": false,
-   "stipendText": "",
-   "deadlineText": "",
-   "deadline": "2026-11-05",
-   "deadlineType": "fixed",
-   "eligibilityText": "",
-   "levels": [],
-   "descriptionSnippet": "A concise Biotecnika newspaper update for {{name}}. BioTecNika Times | Online | Bangalore BioTecNika Times For bioscience professionals and biotech industry updates Here are the latest posts from BioTecNika Times. We kept this edition…",
-   "durationText": "",
-   "sourceName": "www.biotecnika.org",
-   "sourceUrl": "https://www.biotecnika.org/2026/11/biotecnika-times-05-11-2026/",
-   "sourceType": "aggregator",
-   "status": "active",
-   "firstSeenAt": "2026-11-05",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "id": "biotecnika-freshers-job-at-darukaa-earth-apply-now",
@@ -2191,8 +2513,8 @@
    "sourceType": "aggregator",
    "status": "active",
    "firstSeenAt": "2026-11-03",
-   "lastSeenAt": "2026-11-08",
-   "lastVerified": "2026-11-08"
+   "lastSeenAt": "2026-11-09",
+   "lastVerified": "2026-11-09"
   },
   {
    "city": "New Delhi",
@@ -2218,7 +2540,7 @@
    "stipendText": "₹10,000 / month",
    "title": "MoEFCC Internship Scheme 2026",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science"
    ],
@@ -2230,7 +2552,7 @@
    "deadlineType": "fixed",
    "sourceType": "aggregator",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -2256,7 +2578,7 @@
    "stipendText": "",
    "title": "National Renewable Energy Internship (NREI) Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science"
    ],
@@ -2268,7 +2590,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -2293,7 +2615,7 @@
    "stipendText": "",
    "title": "Environmental Science Internship - Soil Testing & Agronomic Analysis",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Agriculture",
     "Environmental Science"
@@ -2306,7 +2628,7 @@
    "deadlineType": "rolling",
    "sourceType": "aggregator",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -2331,7 +2653,7 @@
    "stipendText": "",
    "title": "Internship at WWF-India",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science"
    ],
@@ -2343,7 +2665,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -2368,7 +2690,7 @@
    "stipendText": "",
    "title": "GEER Foundation Internship 2026",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science",
     "Education"
@@ -2382,7 +2704,7 @@
    "deadlineType": "rolling",
    "sourceType": "aggregator",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -2407,7 +2729,7 @@
    "stipendText": "",
    "title": "Research Intern - Sustainability and Climate Change",
    "workMode": "Remote",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science"
    ],
@@ -2419,7 +2741,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -2441,7 +2763,7 @@
    "stipendText": "",
    "title": "Internship - Climate Change",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science"
    ],
@@ -2453,7 +2775,7 @@
    "deadlineType": "rolling",
    "sourceType": "aggregator",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Jaipur",
@@ -2478,7 +2800,7 @@
    "stipendText": "",
    "title": "Environmental Impact Assessment & Environmental Engineering Internship",
    "workMode": "On-site",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science",
     "Engineering"
@@ -2491,7 +2813,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "",
@@ -2516,7 +2838,7 @@
    "stipendText": "",
    "title": "Remote Internship: Environmental Impact Assessment & Environmental Engineering",
    "workMode": "Remote",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science",
     "Engineering"
@@ -2529,7 +2851,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   },
   {
    "city": "Bengaluru",
@@ -2551,7 +2873,7 @@
    "stipendText": "",
    "title": "Intern - Industrial Decarbonisation Research",
    "workMode": "",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-09",
    "fields": [
     "Environmental Science"
    ],
@@ -2563,7 +2885,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-08"
+   "lastSeenAt": "2026-11-09"
   }
  ]
 }
