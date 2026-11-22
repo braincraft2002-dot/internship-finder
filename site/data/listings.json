@@ -1,6 +1,439 @@
 {
- "generatedAt": "2026-11-21T13:07:39+05:30",
+ "generatedAt": "2026-11-22T12:49:34+05:30",
  "listings": [
+  {
+   "id": "arbeitnow-software-engineering-intern-2027-start-berlin-databricks",
+   "title": "Software Engineering Intern (2027 Start) - Berlin",
+   "company": "databricks",
+   "country": "Worldwide",
+   "city": "Berlin",
+   "locationText": "Berlin",
+   "workMode": "",
+   "field": "Computer Science / IT",
+   "fields": [
+    "Computer Science / IT",
+    "Engineering",
+    "Medicine and Health Sciences"
+   ],
+   "degrees": [
+    "M.A. / M.Com / MBA"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p><strong>P-968</strong></p> <p>At Databricks, we are passionate about helping data teams solve the world's toughest problems - from making the next mode of transportation a reality to accelerating the development of medical…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-full-stack-developer-intern-m-f-d-robotics-data-collection-agilerobots",
+   "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",
+   "company": "Agilerobotsse",
+   "country": "Worldwide",
+   "city": "Munich, Bavaria",
+   "locationText": "Munich, Bavaria",
+   "workMode": "",
+   "field": "Other",
+   "fields": [
+    "All"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p><strong>The AI Teams at Agile Robots</strong> are looking for a <strong>Full-Stack Developer Intern (m/f/d) Robotics Data Collection</strong>. Join our team in Munich, where you will help keep the software behind our robotics…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-intern-supply-chain-all-genders-wemolo",
+   "title": "Intern Supply Chain (all genders)",
+   "company": "Wemolo",
+   "country": "Worldwide",
+   "city": "Munich",
+   "locationText": "Munich",
+   "workMode": "",
+   "field": "Commerce / Management",
+   "fields": [
+    "Commerce / Management"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Bist du bereit, dafür zu sorgen, dass unsere Lösungen wirklich auf der Straße und den Parkflächen ankommen? Wir leben own (y)our growth und schaffen ein Umfeld, in dem operative Exzellenz, Innovation und deine persönliche Entwicklung Hand…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.com/jobs/companies/wemolo/intern-supply-chain-all-genders-munchen-943",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-management-graduate-program-intake-spanish-speaker-hrtechx-hrtechx",
+   "title": "Management Graduate Program Intake (Spanish speaker) HRtechX",
+   "company": "Hrtechx",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p>Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our 4 months paid Internship Program in London.</p> <h3><strong>About…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/management-graduate-program-intake-spanish-speaker-hrtechx-london-318606",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-management-graduate-program-intake-scandinavian-speaker-hrtechx-hrtech",
+   "title": "Management Graduate Program Intake (Scandinavian speaker) HRtechX",
+   "company": "Hrtechx",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p>Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our 4 months paid Internship Program in London.</p> <h3><strong>About…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/management-graduate-program-intake-scandinavian-speaker-hrtechx-london-382036",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-management-graduate-program-intake-italian-speaker-hrtechx-hrtechx",
+   "title": "Management Graduate Program Intake (Italian speaker) HRtechX",
+   "company": "Hrtechx",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p>Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our 4 months paid Internship Program in London.</p> <h3><strong>About…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/management-graduate-program-intake-italian-speaker-hrtechx-london-14537",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-management-graduate-program-intake-german-speaker-hrtechx-hrtechx",
+   "title": "Management Graduate Program Intake (German speaker) HRtechX",
+   "company": "Hrtechx",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p>Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our 4 months paid Internship Program in London.</p> <h3><strong>About…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/management-graduate-program-intake-german-speaker-hrtechx-london-367112",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-management-graduate-program-intake-french-speaker-hrtechx-hrtechx",
+   "title": "Management Graduate Program Intake (French speaker) HRtechX",
+   "company": "Hrtechx",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p>Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our 4 months paid Internship Program in London.</p> <h3><strong>About…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/management-graduate-program-intake-french-speaker-hrtechx-london-491670",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-management-graduate-program-intake-danish-speaker-hrtechx-hrtechx",
+   "title": "Management Graduate Program Intake (Danish speaker) HRtechX",
+   "company": "Hrtechx",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p>Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our 4 months paid Internship Program in London.</p> <h3><strong>About…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/management-graduate-program-intake-danish-speaker-hrtechx-london-274154",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-management-graduate-program-at-hrtechx-hrtechx",
+   "title": "Management Graduate Program at HRTechX",
+   "company": "Hrtechx",
+   "country": "Worldwide",
+   "city": "London",
+   "locationText": "London",
+   "workMode": "",
+   "field": "Commerce / Management",
+   "fields": [
+    "Commerce / Management",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "<p>Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our Internship Program in London.</p> <p><strong>Why <span…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/management-graduate-program-at-hrtechx-london-157589",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-intern-ai-researcher-anomaly-detection-for-predictive-maintenance-in-d",
+   "title": "Intern AI Researcher: Anomaly Detection for Predictive Maintenance in Distributed Storage",
+   "company": "Scality",
+   "country": "Worldwide",
+   "city": "Paris, France",
+   "locationText": "Paris, France",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Computer Science / IT",
+    "Data Science / AI",
+    "Engineering",
+    "Social Sciences and Humanities",
+    "Media and Communication"
+   ],
+   "degrees": [
+    "B.A. / B.Com / BBA"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "rolling",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "About Scality Scality builds data infrastructure software for enterprise AI, cyber resilience, and sovereign control at multi-petabyte to exabyte scale. Its AI Data Infrastructure platform reduces operational burden through AI-powered…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.fr/jobs/companies/scality/intern-ai-researcher-anomaly-detection-for-predictive-maintenance-in-distributed-storage-paris-france-483265",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
+  {
+   "id": "arbeitnow-accounting-intern-january-2027-voodoo",
+   "title": "Accounting Intern - January 2027",
+   "company": "Voodoo",
+   "country": "Worldwide",
+   "city": "Paris",
+   "locationText": "Paris",
+   "workMode": "",
+   "field": "Environmental Science",
+   "fields": [
+    "Environmental Science",
+    "Computer Science / IT",
+    "Engineering",
+    "Commerce / Management",
+    "Law",
+    "Education"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "recurring",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "About Voodoo Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile…",
+   "durationText": "",
+   "sourceName": "arbeitnow.com",
+   "sourceUrl": "https://www.arbeitnow.fr/jobs/companies/voodoo/accounting-intern-january-2027-paris-97656",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-22T12:49:34+05:30",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
+  },
   {
    "id": "arbeitnow-campaign-coordinator-intern-pergolux",
    "title": "Campaign Coordinator Intern",
@@ -188,6 +621,41 @@
    "firstSeenAt": "2026-11-21T13:07:39+05:30",
    "lastSeenAt": "2026-11-21",
    "lastVerified": "2026-11-21"
+  },
+  {
+   "id": "remoteok-1137943",
+   "title": "Global Tax Intern",
+   "company": "Ensono",
+   "country": "Worldwide",
+   "city": "",
+   "locationText": "Remote",
+   "workMode": "Remote",
+   "field": "Commerce / Management",
+   "fields": [
+    "Commerce / Management",
+    "Law"
+   ],
+   "degrees": [
+    "All"
+   ],
+   "taggingConfidence": "low",
+   "kind": "Internship",
+   "paid": false,
+   "stipendText": "",
+   "deadlineText": "",
+   "deadline": null,
+   "deadlineType": "recurring",
+   "eligibilityText": "",
+   "levels": [],
+   "descriptionSnippet": "Global Tax Intern At Ensono, our Purpose is to be a relentless ally, disrupting the status quo and unleashing our clients to Do Great Things!Â We enable our clients to achieve key business outcomes that reshape how our world runs. As an…",
+   "durationText": "",
+   "sourceName": "remoteok.com",
+   "sourceUrl": "https://remoteOK.com/remote-jobs/remote-global-tax-intern-ensono-1137943",
+   "sourceType": "aggregator",
+   "status": "active",
+   "firstSeenAt": "2026-11-21",
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "arbeitnow-trainee-influencer-marketing-manager-m-f-d-italian-speaking-yepoda",
@@ -440,8 +908,8 @@
    "sourceType": "aggregator",
    "status": "active",
    "firstSeenAt": "2026-11-20",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "biotecnika-graduate-apprentice-trainee-at-bruker-apply-online-here",
@@ -474,8 +942,8 @@
    "sourceType": "aggregator",
    "status": "active",
    "firstSeenAt": "2026-11-20",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "biotecnika-biocon-apprentice-walk-in-22-nov-mandya-freshers-b-sc-m-sc-biotech",
@@ -509,8 +977,8 @@
    "sourceType": "aggregator",
    "status": "active",
    "firstSeenAt": "2026-11-20",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "arbeitnow-r-d-engineering-intern-mechanical-electronics-software-system-f-m-d-ta",
@@ -829,8 +1297,8 @@
    "sourceType": "aggregator",
    "status": "active",
    "firstSeenAt": "2026-11-19",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "arbeitnow-intern-ai-data-transformation-isaraerospace",
@@ -1886,8 +2354,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-13T12:36:26+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "arbeitnow-data-people-analytics-intern-january-2027-mirakl",
@@ -4401,8 +4869,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "national-scholarship-portal-nsp-apply-for-scholarship",
@@ -4435,8 +4903,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "national-scholarship-portal-nsp-scholarship-eligibility",
@@ -4469,8 +4937,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "ugc-ugc-fellowship-and-research-grants",
@@ -4503,8 +4971,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "ugc-web-portal-for-fellowship-scholarship-legacy-cases",
@@ -4537,8 +5005,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "icmr-national-health-research-programme",
@@ -4571,8 +5039,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "iisc-bengaluru-iisc-faculty-awarded-royal-society-wolfson-visiting-fellowship-2026",
@@ -4605,8 +5073,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "iisc-bengaluru-prof-suryasarathi-bose-received-nasi-reliance-innovation-fellowship-na",
@@ -4639,8 +5107,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-indian-army-internship-cyber-defence-engineering-cell",
@@ -4673,8 +5141,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-tulip-smart-cities-internship-ministry-of-housing-urban-affairs",
@@ -4707,8 +5175,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-cpwd-internship-new-central-public-works-department-mohua",
@@ -4741,8 +5209,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-national-highways-authority-of-india-internship-nhai-morth-highways-in",
@@ -4775,8 +5243,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-panchayati-raj-rural-internship-2-5-lakh-gram-panchayats-jal-jeevan",
@@ -4809,8 +5277,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-amrut-2-0-water-mission-internship-new-mohua-urban-water-sanitation-mi",
@@ -4843,8 +5311,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-c-dac-dashboard-internships-via-c-dac-nielit-ernet",
@@ -4877,8 +5345,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-morth-road-transport-internship-road-safety-vahan-green-mobility",
@@ -4911,8 +5379,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-land-ports-authority-internship-integrated-check-posts-border-trade",
@@ -4945,8 +5413,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-government-of-maharashtra-internship-higher-technical-education-dept-h",
@@ -4979,8 +5447,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-internship-report-2025-26-national-placement-state-metrics",
@@ -5016,8 +5484,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-selected-interns-meet-who-made-it-this-season",
@@ -5053,8 +5521,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-impact-reports-placement-data-state-by-state",
@@ -5090,8 +5558,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-amrutam-2-0-pin-well-login-login-well-management-web-admin-portal",
@@ -5127,8 +5595,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-aicte-super-admin-admin-national-governance-employer-kyc-desk",
@@ -5164,8 +5632,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-state-admin-desk-nodal-state-nodal-directorate-approvals",
@@ -5201,8 +5669,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "aicte-internship-portal-media-stories-films-photos-and-press",
@@ -5238,8 +5706,8 @@
    "sourceType": "official",
    "status": "active",
    "firstSeenAt": "2026-11-08T15:15:12+05:30",
-   "lastSeenAt": "2026-11-21",
-   "lastVerified": "2026-11-21"
+   "lastSeenAt": "2026-11-22",
+   "lastVerified": "2026-11-22"
   },
   {
    "id": "arbeitnow-2027-summer-intern-ms-phd-machine-learning-simulation-realism-waymo",
@@ -5300,7 +5768,7 @@
    "stipendText": "Rs.10,000/- per month",
    "title": "Digital India Internship Scheme",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Engineering"
    ],
@@ -5315,7 +5783,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5337,7 +5805,7 @@
    "stipendText": "",
    "title": "Digital India Internship Scheme for NIC",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "All"
    ],
@@ -5349,7 +5817,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5374,7 +5842,7 @@
    "stipendText": "",
    "title": "IndiaAI Fellowship Programme (FutureSkills)",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "All"
    ],
@@ -5383,11 +5851,11 @@
     "B.Tech / B.E."
    ],
    "taggingConfidence": "high",
-   "deadline": null,
-   "deadlineType": "rolling",
+   "deadline": "2024-06-22",
+   "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Chennai",
@@ -5411,7 +5879,7 @@
    "stipendText": "Rs 40,000 to Rs 60,000 a month",
    "title": "Post-Baccalaureate Fellowship in Data Science and AI",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Data Science / AI"
    ],
@@ -5423,7 +5891,7 @@
    "deadlineType": "recurring",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5449,7 +5917,7 @@
    "stipendText": "",
    "title": "DoS/ISRO Internship & Student Project Trainee Schemes",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "All"
    ],
@@ -5461,7 +5929,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Bengaluru",
@@ -5486,7 +5954,7 @@
    "stipendText": "",
    "title": "DRDO MTRDC Paid Internship Scheme 2026-27",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Engineering"
    ],
@@ -5498,7 +5966,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5522,7 +5990,7 @@
    "stipendText": "",
    "title": "Student READY Programme (Rural Entrepreneurship Awareness Development Yojana)",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Agriculture"
    ],
@@ -5534,7 +6002,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5559,7 +6027,7 @@
    "stipendText": "18000 per month (as stated in the SIS 2023-24 notification)",
    "title": "NABARD Student Internship Scheme (SIS)",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Agriculture",
     "Commerce / Management",
@@ -5573,7 +6041,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5598,7 +6066,7 @@
    "stipendText": "",
    "title": "Student Internship Training Program",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "All"
    ],
@@ -5613,7 +6081,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Jodhpur",
@@ -5638,7 +6106,7 @@
    "stipendText": "",
    "title": "Internship / Dissertation Training",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Life Sciences / Biology",
     "Biotechnology",
@@ -5653,7 +6121,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5677,7 +6145,7 @@
    "stipendText": "",
    "title": "Short-Term Studentship (STS)",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Medicine and Health Sciences"
    ],
@@ -5689,7 +6157,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "New Delhi",
@@ -5715,7 +6183,7 @@
    "stipendText": "",
    "title": "Voluntary Internship Programme for Law Students",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Law"
    ],
@@ -5727,7 +6195,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5749,7 +6217,7 @@
    "stipendText": "",
    "title": "IKS Institutional Internship (BGSamvahan Karyakram-6)",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "All"
    ],
@@ -5761,7 +6229,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "New Delhi",
@@ -5785,7 +6253,7 @@
    "stipendText": "₹25,000 per month",
    "title": "Graduate Media Internship Policy 2020",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Media and Communication"
    ],
@@ -5797,7 +6265,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5823,7 +6291,7 @@
    "stipendText": "",
    "title": "NITI Aayog Internship Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "All"
    ],
@@ -5835,7 +6303,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Mumbai",
@@ -5859,7 +6327,7 @@
    "stipendText": "₹45,000 per month",
    "title": "RBI Research Internship Scheme",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Commerce / Management",
     "Social Sciences and Humanities"
@@ -5872,7 +6340,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5894,7 +6362,7 @@
    "stipendText": "",
    "title": "CCI Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Commerce / Management",
     "Social Sciences and Humanities"
@@ -5903,11 +6371,11 @@
     "All"
    ],
    "taggingConfidence": "high",
-   "deadline": "2026-11-20",
+   "deadline": "2026-11-21",
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Bengaluru",
@@ -5932,7 +6400,7 @@
    "stipendText": "₹10,000 per month",
    "title": "Summer Research Fellowship Programme (SRFP) - Life Sciences",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Life Sciences / Biology"
    ],
@@ -5946,7 +6414,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -5971,7 +6439,7 @@
    "stipendText": "Rs. 10,000 per month (DBT share) plus minimum Rs. 12,300 per month (company share)",
    "title": "DBT Biotech Industrial Training Programme (BITP) 2026-27",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Biotechnology"
    ],
@@ -5986,7 +6454,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Coimbatore",
@@ -6011,7 +6479,7 @@
    "stipendText": "",
    "title": "Student Internship / Project Work at ICFRE-IFGTB",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Forestry",
     "Life Sciences / Biology"
@@ -6025,7 +6493,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6051,7 +6519,7 @@
    "stipendText": "",
    "title": "FSSAI Internship Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Data Science / AI"
    ],
@@ -6063,7 +6531,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6088,7 +6556,7 @@
    "stipendText": "",
    "title": "WII Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Forestry"
    ],
@@ -6101,7 +6569,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6123,7 +6591,7 @@
    "stipendText": "",
    "title": "NCESS Internship / Training / Dissertation Programme",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Earth Sciences / Geology"
    ],
@@ -6135,7 +6603,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Ahmedabad",
@@ -6161,7 +6629,7 @@
    "stipendText": "",
    "title": "PRL Summer Internship Programme - Geology / Geophysics",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Earth Sciences / Geology",
     "Physics"
@@ -6174,7 +6642,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Bengaluru",
@@ -6199,7 +6667,7 @@
    "stipendText": "₹10,000 per month",
    "title": "Summer Research Fellowship Programme (SRFP) - Chemical Sciences",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Chemistry"
    ],
@@ -6212,7 +6680,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Ahmedabad",
@@ -6238,7 +6706,7 @@
    "stipendText": "",
    "title": "PRL Summer Internship Programme",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Physics"
    ],
@@ -6250,7 +6718,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6275,7 +6743,7 @@
    "stipendText": "Honorarium of Rs. 9,000",
    "title": "Visiting Students Research Programme (VSRP) - Mathematics",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Mathematics and Statistics"
    ],
@@ -6288,7 +6756,7 @@
    "deadlineType": "fixed",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "id": "biotecnika-fast-sf-2027-focus-area-science-technology-summer-fellowship-iasc-insa",
@@ -6586,7 +7054,7 @@
    "stipendText": "₹10,000 / month",
    "title": "MoEFCC Internship Scheme 2026",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science"
    ],
@@ -6598,7 +7066,7 @@
    "deadlineType": "fixed",
    "sourceType": "aggregator",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6624,7 +7092,7 @@
    "stipendText": "",
    "title": "National Renewable Energy Internship (NREI) Scheme",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science"
    ],
@@ -6636,7 +7104,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6661,7 +7129,7 @@
    "stipendText": "",
    "title": "Environmental Science Internship - Soil Testing & Agronomic Analysis",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Agriculture",
     "Environmental Science"
@@ -6674,7 +7142,7 @@
    "deadlineType": "rolling",
    "sourceType": "aggregator",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6699,7 +7167,7 @@
    "stipendText": "",
    "title": "Internship at WWF-India",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science"
    ],
@@ -6711,7 +7179,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6736,7 +7204,7 @@
    "stipendText": "",
    "title": "GEER Foundation Internship 2026",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science",
     "Education"
@@ -6750,7 +7218,7 @@
    "deadlineType": "rolling",
    "sourceType": "aggregator",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6775,7 +7243,7 @@
    "stipendText": "",
    "title": "Research Intern - Sustainability and Climate Change",
    "workMode": "Remote",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science"
    ],
@@ -6787,7 +7255,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6809,7 +7277,7 @@
    "stipendText": "",
    "title": "Internship - Climate Change",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science"
    ],
@@ -6821,7 +7289,7 @@
    "deadlineType": "rolling",
    "sourceType": "aggregator",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Jaipur",
@@ -6846,7 +7314,7 @@
    "stipendText": "",
    "title": "Environmental Impact Assessment & Environmental Engineering Internship",
    "workMode": "On-site",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science",
     "Engineering"
@@ -6859,7 +7327,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "",
@@ -6884,7 +7352,7 @@
    "stipendText": "",
    "title": "Remote Internship: Environmental Impact Assessment & Environmental Engineering",
    "workMode": "Remote",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science",
     "Engineering"
@@ -6897,7 +7365,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   },
   {
    "city": "Bengaluru",
@@ -6919,7 +7387,7 @@
    "stipendText": "",
    "title": "Intern - Industrial Decarbonisation Research",
    "workMode": "",
-   "lastVerified": "2026-11-21",
+   "lastVerified": "2026-11-22",
    "fields": [
     "Environmental Science"
    ],
@@ -6931,7 +7399,7 @@
    "deadlineType": "rolling",
    "sourceType": "official",
    "status": "active",
-   "lastSeenAt": "2026-11-21"
+   "lastSeenAt": "2026-11-22"
   }
  ]
 }
